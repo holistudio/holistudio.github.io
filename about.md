@@ -1,9 +1,7 @@
 ---
 layout: page
-title: about
+title: about me
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
-
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Hi! I'm a design technologist currently investigating the use of virtual reality, wearables, and machine learning in architectural design and construction processes as a PhD researcher at the Building Informatics Lab at NYU Tandon School of Engineering. My main interests are at the intersection of Human Computer Interaction (HCI) and the built environment.
