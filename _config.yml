@@ -3,7 +3,7 @@ title: Daniel Lu // studioashobby
 email: daniel.bin.lu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello world!
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://holistudio.github.io/" # the base hostname & protocol for your site
 github_username:  holistudio
 
