@@ -2,7 +2,7 @@
 title: Dan Lu | Design Technologist
 email: daniel.bin.lu [at] gmail [dot] com
 description: > # this means to ignore newlines until "baseurl:"
-  Dan is currently
+  Dan is currently a PhD researcher at BILAB at NYU Tandon.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://holistudio.github.io/" # the base hostname & protocol for your site
 github_username:  holistudio
