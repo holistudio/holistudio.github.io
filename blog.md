@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: writing
 permalink: /blog/
 ---
 
-This is a placeholder for future writing.
+{% include blog.html %}
