@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: blog_page
 title: writing
 permalink: /blog/
 ---
 
-{% include blog.html %}
