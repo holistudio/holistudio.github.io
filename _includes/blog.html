@@ -1,5 +1,6 @@
 {% for category in site.posts %}
   {% if category[0] == 'blog' %}
+  test
     {% assign posts = category[1] %}
     {% for post in posts %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
