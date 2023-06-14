@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://holistudio.github.io/" # the base hostname & protocol for your site
 github_username:  holistudio
 instagram_username: studioashobby
+data_dir: "_data"
 
 # Build settings
 markdown: kramdown
