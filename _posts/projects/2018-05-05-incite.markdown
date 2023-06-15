@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Lineage"
+title:  "RE/UNcover"
 date:   2018-05-04 18:47:00
 preview: /assets/img/preview_incite.png
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+<iframe src="https://player.vimeo.com/video/327150676?h=fc720b863a" width="640" height="853" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Taichi exhibit project placeholder
