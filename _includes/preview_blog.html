@@ -1,8 +1,5 @@
-{% for category in site.posts %}
-  {% if category[0] == 'blog' %}
-    test
-    {% assign posts = category[1] %}
-    {% for post in posts %}
+{% for post in site.posts %}
+    {% if post.path contains '/blog/' %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
@@ -13,7 +10,6 @@
            </div>
         </div>
     {% cycle 'end row' : '', '', '</div>' %}
-    {% endfor %}
-    {% cycle 'end row' : '', '</div>', '</div>' %}
-  {% endif %}
+    {% endif %}
 {% endfor %}
+{% cycle 'end row' : '', '</div>', '</div>' %}
