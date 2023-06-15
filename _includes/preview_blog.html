@@ -4,8 +4,8 @@
         <div class="column column-33">
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
+                    <div class="post-title">{{ post.title }}</div>
                 </a>
-                <div class="post-title">{{ post.title }}</div>
            </div>
         </div>
     {% cycle 'end row' : '', '', '</div>' %}
