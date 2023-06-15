@@ -8,7 +8,7 @@ preview: /assets/img/preview_incite.png
 <iframe src="https://player.vimeo.com/video/327150676?h=fc720b863a" width="760" height="1013" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-Like all martial arts, taichi started as a combat system, but gradually evolved into a practice for health, wellness, and later a sport. An mixed reality experience was designed to illustrate how taichi developed. 
+Like all martial arts, taichi started as a combat system, but gradually evolved into a practice for health, wellness, and competitive sports. A mixed reality experience was designed to illustrate how taichi developed. 
 
 ![Taichi timeline](/assets/img/incite/02_gallery_concept_0.png)
 
