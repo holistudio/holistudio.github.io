@@ -10,6 +10,6 @@ Hi! I'm a design technologist currently investigating the use of virtual reality
  - How can VR and wearables help identify what people want from their spaces? 
  - How can your surrounding environment elegantly adapt to your changing needs?
 
-Beyond that, I'm always up for using my coding and design skills for any form of storytelling: photography, music, film, graphic design.
+Beyond that, I'm always up for using my coding and design skills for any form of storytelling: data visualization, graphic design, photography, music, film.
 
 Interested in reaching out? Contact me at daniel.bin.lu [at] gmail [dot] com.
