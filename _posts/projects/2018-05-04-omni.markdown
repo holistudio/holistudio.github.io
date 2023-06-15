@@ -2,7 +2,7 @@
 layout: post
 title:  "Omni"
 date:   2018-05-04 18:47:00
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/preview_omni.png
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
