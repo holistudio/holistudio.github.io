@@ -1,13 +1,9 @@
 {% for post in site.posts %}
     {% if post.path contains '/blog/' %}
     {% cycle 'add row' : '<div class="row">', '', '' %}
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                    <div class="post-title">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }} </div>
-                </a>
-           </div>
-        </div>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+            <div class="post-title">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }} </div>
+        </a>
     {% cycle 'end row' : '', '', '</div>' %}
     {% endif %}
 {% endfor %}
