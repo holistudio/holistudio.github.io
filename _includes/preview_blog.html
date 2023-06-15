@@ -5,6 +5,7 @@
         <div class="column">
             <a href="{{ post.url | prepend: site.baseurl }}">
                 <div class="post-title"> {{ post.title }} </div>
+                {{ page.date | date: "%Y-%m-%d" }}
             </a>
             <br>
         </div>
