@@ -1,7 +1,5 @@
 {% for post in site.posts %}
-    {% if post[0] == 'blog' %}
-    test
-    {% endif %}
+    {{ post }}
     {% cycle 'add row' : '<div class="row">', '', '' %}
         <div class="column column-33">
             <div class="preview-panel">
