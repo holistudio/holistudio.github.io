@@ -14,7 +14,7 @@ Finding a book you want to read isn't always a quick Google search away. Sometim
 
 ![chatbox centered](/assets/img/omni/03_screen4.png)
 
-The books were recommended based on the conversation content and used Google Books API. Testing the chatbot with friends revealed some differing opinions on chatbots. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
+After your converstation, books are recommended based on the conversation content and results from the Google Books API. User tests with friends revealed some differing opinions on chatbots. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
 
 ![book recommendations](/assets/img/omni/04_screen5.png)
 
