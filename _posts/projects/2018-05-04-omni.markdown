@@ -34,4 +34,4 @@ Early iterations focused on the dynamic layout and typography, while later itera
 
 Last but not least, the logo was also designed to resemble other chat interfaces and reflect the project name.
 
-<div class="row justify-content-center"><div class="column"></div><div class="column"><img width="150" src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"></div></div>
+<div class="row"><div class="column"></div><div class="column"><img width="150" src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"></div></div>
