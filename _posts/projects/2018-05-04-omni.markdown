@@ -7,4 +7,24 @@ preview: /assets/img/preview_omni.png
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
+Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
+
+![chatbox centered](/assets/img/omni/02_screen2.png)
+
+![chatbox centered](/assets/img/omni/03_screen4.png)
+
+The books were recommended based on the conversation content and used Google Books API. Testing the chatbot with friends revealed some differing opinions. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
+
+![book recommendations](/assets/img/omni/04_screen5.png)
+
+Responsive design for mobile interfaces were developed.
+
+![mobile](/assets/img/omni/05_mobile-composite.png)
+
+![storyboard](/assets/img/omni/08_storyboard-mobile.png)
+
+Early iterations focused on the dynamic layout and typography, while later iterations added a warm color palette to counteract any sci-fi hi-tech connotations of the experience.
+
+![sci-fi](/assets/img/omni/06_dev02.png)
+
+![warm](/assets/img/omni/06_screen8.png)
