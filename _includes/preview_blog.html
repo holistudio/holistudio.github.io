@@ -2,9 +2,11 @@
     {% if post.path contains '/blog/' %}
 
     <div class="row">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <div class="post-title">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }} </div>
-        </a>
+        <div class="column">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <div class="post-title">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }} </div>
+            </a>
+        </div>
     </div>
 
     {% endif %}
