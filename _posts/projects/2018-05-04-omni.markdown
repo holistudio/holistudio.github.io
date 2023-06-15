@@ -5,7 +5,7 @@ date:   2018-05-04 18:47:00
 preview: /assets/img/preview_omni.png
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="760" height="427" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
 
@@ -13,7 +13,7 @@ Finding a book you want to read isn't always a quick Google search away. Sometim
 
 ![chatbox centered](/assets/img/omni/03_screen4.png)
 
-The books were recommended based on the conversation content and used Google Books API. Testing the chatbot with friends revealed some differing opinions. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
+The books were recommended based on the conversation content and used Google Books API. Testing the chatbot with friends revealed some differing opinions on chatbots. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
 
 ![book recommendations](/assets/img/omni/04_screen5.png)
 
