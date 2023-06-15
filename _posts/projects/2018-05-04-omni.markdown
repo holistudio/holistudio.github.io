@@ -5,16 +5,18 @@ date:   2018-05-04 18:47:00
 preview: /assets/img/preview_omni.png
 ---
 
+Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
+
 <iframe width="760" height="427" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
-Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
+After your converstation, books are recommended based on the conversation content and results from the Google Books API. 
 
 ![chatbox centered](/assets/img/omni/02_screen2.png)
 
 ![chatbox centered](/assets/img/omni/03_screen4.png)
 
-After your converstation, books are recommended based on the conversation content and results from the Google Books API. User tests with friends revealed some differing opinions on chatbots. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
+User tests with friends revealed some differing opinions on chatbots. Some doubted if they needed an AI for book recommendations. One friend remarked, "This may not be the most efficient way to find great books, but it can be a fun way to find books I like."
 
 ![book recommendations](/assets/img/omni/04_screen5.png)
 
@@ -29,3 +31,7 @@ Early iterations focused on the dynamic layout and typography, while later itera
 ![sci-fi](/assets/img/omni/06_dev02.png)
 
 ![warm](/assets/img/omni/06_screen8.png)
+
+Last but not least, the logo was also designed to resemble other chat interfaces and reflect the project name.
+
+<div class="row"><div class="column"><img src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"><img src="/assets/img/omni/07_logo.png"></div></div>
