@@ -4,4 +4,4 @@ title: thoughts
 permalink: /thoughts/
 ---
 
-Thoughts I have on machine learning, design, and other things.
+Thoughts I have on design, machine learning, martial arts, and other things.
