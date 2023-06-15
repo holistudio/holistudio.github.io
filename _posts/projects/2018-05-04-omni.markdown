@@ -5,6 +5,6 @@ date:   2018-05-04 18:47:00
 preview: /assets/img/preview_omni.png
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Chatbot project placeholder
+Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
