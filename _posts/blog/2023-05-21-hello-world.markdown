@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog_post
 title:  "Hello Blog World!"
 date:   2023-05-21 18:47:00
 preview: holder.js/300x300?auto=yes
