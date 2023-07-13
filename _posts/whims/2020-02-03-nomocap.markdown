@@ -7,10 +7,12 @@ preview: /assets/img/preview_nomocap.png
 
 Motion capture of martial arts movements have been a major component in video games and film visual effects, typically involving cumbersome suits for the martial artists and an array of expensvie cameras.
 
-What if all you needed was a single camera? Using a machine learning model trained to recognize a person's body parts in 2D images and locate those body parts' 3D locations it can be possible to generate a 3D animation of a martial artist movements using only a single video capturing those moves.
+What if all you needed was a single camera? Using a computer visiion model trained to recognize a person's body parts in 2D images and locate those body parts' 3D locations, it can be possible to generate a 3D animation of a martial artist movements using only a single video capturing those moves.
 
 <iframe src="https://player.vimeo.com/video/380161358?h=2b74ae70d5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-After taking a robot perception course and computer graphics course at NYU Tandon, both of which assigned a final project, I decided to combine the two: generate 3D human figures with machine learning code, then animate them in 3D using OpenGL.
+Ideally, this means there's **no mo**re need for **mo**tion **cap**ture suits.
+
+After taking a robot perception course and computer graphics course at NYU Tandon the same semester, both of which assigned a final project, I decided to combine the two: generate 3D human figures with computer vision libraries, then animate them in 3D using OpenGL.
 
 Full 3D pose and animation pipeline code can be found on [Github](https://github.com/holistudio/nomocap), based on rayat137's [Pose_3D code](https://github.com/rayat137/Pose_3D) for 3D human pose generation.
