@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "NoMoCap"
+date:   2020-02-03 18:47:00
+preview: /assets/img/preview_nomocap.png
+---
+<iframe src="https://player.vimeo.com/video/380161358?h=2b74ae70d5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
