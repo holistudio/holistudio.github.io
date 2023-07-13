@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: whims
 title: whims
 permalink: /whims/
 ---
