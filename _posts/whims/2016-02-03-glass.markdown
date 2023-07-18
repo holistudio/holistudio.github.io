@@ -5,4 +5,8 @@ date:   2015-07-03 18:47:00
 preview: /assets/img/preview_glass.png
 ---
 
-<iframe allow="clipboard-write" allowfullscreen id="DocPageReaderIframe" src="https://issuu.com/rdr?p=1&amp;d=_final&amp;u=daniellu32" tabindex="0" title="Every Glass Building is Naked" height="800"></iframe>
+Building facades or envelopes - the outer walls, roofs, windows of buildings - are generally designed with many different considerations in mind: how it looks, how it's made and constructed, how it suits the building's outdoor climate. 
+
+<iframe allow="clipboard-write" allowfullscreen id="DocPageReaderIframe" src="https://issuu.com/rdr?p=1&amp;d=_final&amp;u=daniellu32" tabindex="0" title="Every Glass Building is Naked" width="760" height="452"></iframe>
+
+This picture book was my attempt to illustrate the different considerations in the design of building facades using the the everyday analogy of clothing.
