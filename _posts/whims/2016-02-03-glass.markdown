@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Every Glass Building is Naked"
+date:   2015-07-03 18:47:00
+preview: /assets/img/preview_glass.png
+---
+
+<iframe allow="clipboard-write" allowfullscreen id="DocPageReaderIframe" src="https://issuu.com/rdr?p=1&amp;d=_final&amp;u=daniellu32" tabindex="0" title="Every Glass Building is Naked" class="sc-2zgna2-0 cAOzQP"></iframe>
