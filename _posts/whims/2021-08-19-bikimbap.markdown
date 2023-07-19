@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "BiKimbap"
+date:   2015-07-03 18:47:00
+preview: /assets/img/preview_bikimbap.png
+---
+
+I love eating dolsot bibimbap for its variety of flavors and textures: soft white rice, warm egg, spicy gochujang, all sorts of veggies, and, most importantly, the crispy rice at the bottom of the hot stone bowl. I usually struggle to get all those things in one bite...
+
+![bibimbap and kimbap](/assets/img/bikimbap/bikimbap.png)
+
+So I messed around in my kitchen and came up with a way to arrange them in a kimbap form.
