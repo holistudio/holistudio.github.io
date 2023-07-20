@@ -7,8 +7,7 @@ preview: /assets/img/preview_omni.png
 
 Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
 
-<iframe width="760" height="427" src="https://www.youtube.com/embed/tm8Xnv-0YLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
+![chatbox animation](/assets/img/omni/intro.gif)
 
 After your converstation, books are recommended based on the conversation content and results from the Google Books API. 
 
