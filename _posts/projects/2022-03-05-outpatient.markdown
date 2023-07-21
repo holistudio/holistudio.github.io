@@ -15,7 +15,7 @@ The general goal should be to identify the critical needs of outpatient clinic o
 
 By integrating considerations of how the physical space should be designed and how interactive technologies should serve occupants, outpatient practices will operate more effectively and better serve their patients with a quality experience.
 
-## Publications
+### Publications
 
 Lu, D., Ergan, S., Mann, D., & Lawrence, K. (2022). The Need for Responsive Environments: Bringing Flexibility to Clinic Spaces. In Construction Research Congress 2022 (pp. 812-821). https://doi.org/10.1061/9780784483961.085
 
