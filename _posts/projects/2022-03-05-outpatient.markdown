@@ -7,9 +7,13 @@ preview: /assets/img/preview_outpatient.png
 
 The healthcare industry has recently been facing a number of technological trends, like telemedicine, health tracking wearables, and AI-augmented tools. These trends raise the general question of what people, both patients and medical staff, expect out of their outpatient clinic spaces. Revisiting these basic expectations may require architects and engineers to rethink their process of designing an outpatient clinic's physical space and building systems. 
 
-Though responsive environment technologies (robotic furniture, smart lighting, etc.) have found some initial success in residential spaces, these innovations have yet to be applied to outpatient clinic spaces. Initial investigations into such applications have developed virtual models robotic furniture and wall concepts and shown them to medical staff for their impressions: how a physician office can transform into a patient room, how workspaces can transform into a meeting room between physicians and their assistants.
+Though responsive environment technologies (robotic furniture, smart lighting, etc.) have found some initial success in residential spaces, these innovations have yet to be applied to outpatient clinic spaces. 
+
+Initial investigations into such applications have developed virtual models of robotic furniture and wall transformations: how a physician office can transform into a patient room, how workspaces can transform into a meeting room between physicians and their assistants. 
 
 ![room transformations](/assets/img/outpatient/transformations.png)
+
+Medical staff later interacted with these models in real-time and expressed an entusiasm for these ideas and concerns for how they fit into their usual workflows.
 
 The general goal should be to identify the critical needs of outpatient clinic occupants, be they medical staff or patients, and map them to appropriate responsive environment technologies (robotic furniture, smart lighting, etc.). Achieving this goal will likely require early consideration of such technologies and development of mockups (virtual or physical) demonstrating their responsive interactions to all potential stakeholders. 
 
