@@ -5,9 +5,9 @@ date:   2022-03-05 18:47:00
 preview: /assets/img/preview_outpatient.png
 ---
 
-The healthcare industry has recently been facing a number of technological trends, like telemedicine, health tracking wearables, and AI-augmented tools. These trends raise the general question of what people (patients and medical staff) expect out of their outpatient clinic spaces, and consequently require architects and engineers to reconsider how those spaces need to be designed to meet those changing needs. Though responsive environment technologies (robotic furniture, smart lighting, etc.) have found some initial success in residential spaces, these innovations have yet to be applied to outpatient clinic spaces.
+The healthcare industry has recently been facing a number of technological trends, like telemedicine, health tracking wearables, and AI-augmented tools. These trends raise the general question of what people, both patients and medical staff, expect out of their outpatient clinic spaces. Revisiting these basic expectations may require architects and engineers to rethink their process of designing an outpatient clinic's physical space and building systems. 
 
-Initial investigations into such applications have developed virtual models robotic furniture and wall concepts and shown them to medical staff for their impressions: how a physician office can transform into a patient room, how workspaces can transform into a meeting room between physicians and their assistants.
+Though responsive environment technologies (robotic furniture, smart lighting, etc.) have found some initial success in residential spaces, these innovations have yet to be applied to outpatient clinic spaces. Initial investigations into such applications have developed virtual models robotic furniture and wall concepts and shown them to medical staff for their impressions: how a physician office can transform into a patient room, how workspaces can transform into a meeting room between physicians and their assistants.
 
 ![room transformations](/assets/img/outpatient/transformations.png)
 
