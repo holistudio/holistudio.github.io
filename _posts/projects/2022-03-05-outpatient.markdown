@@ -13,7 +13,7 @@ Though responsive environment technologies (robotic furniture, smart lighting, e
 
 The general goal should be to identify the critical needs of outpatient clinic occupants, be they medical staff or patients, and map them to appropriate responsive environment technologies (robotic furniture, smart lighting, etc.). Achieving this goal will likely require early consideration of such technologies and development of mockups (virtual or physical) demonstrating their responsive interactions to all potential stakeholders. 
 
-By integrating considerations of how the physical space should be designed and how interactive technologies should serve occupants, outpatient practices will operate more effectively and better serve their patients with a quality experience.
+By integrating considerations of how the physical space should be designed and how interactive technologies should serve occupants, architects and engineers can create spaces that enable outpatient practices to operate more effectively and better serve their patients with a quality experience.
 
 ### Publications
 
