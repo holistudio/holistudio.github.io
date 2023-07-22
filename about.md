@@ -14,4 +14,4 @@ Beyond that, I'm always up for using my coding and design skills for any form of
 
 Interested in collaborating? Contact me at daniel.bin.lu [at] gmail [dot] com.
 
-[LinkedIn](https://www.linkedin.com/in/danielbinlu/) | [Google Scholar](https://scholar.google.com/citations?user=nvlietgAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/danielbinlu/), [Google Scholar](https://scholar.google.com/citations?user=nvlietgAAAAJ&hl=en)
