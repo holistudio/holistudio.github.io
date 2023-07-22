@@ -26,4 +26,4 @@ The walled environment's different forms were derived from different types of se
 
 ### Technical Skills
 
-Unity, Vuforia, Rhino, 3DSMax, ml5js, p5js
+Unity, Vuforia, Rhino, 3DSMax, ml5js, p5js, Processing, Arduino
