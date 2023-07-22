@@ -12,4 +12,6 @@ Hi! I'm a design technologist currently investigating the use of virtual reality
 
 Beyond that, I'm always up for using my coding and design skills for any form of storytelling: data visualization, graphic design, photography, music, film.
 
-Interested in reaching out? Contact me at daniel.bin.lu [at] gmail [dot] com.
+Interested in collaborating? Contact me at daniel.bin.lu [at] gmail [dot] com.
+
+[LinkedIn](https://www.linkedin.com/in/danielbinlu/) | [Google Scholar](https://scholar.google.com/citations?user=nvlietgAAAAJ&hl=en)
