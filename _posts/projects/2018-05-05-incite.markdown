@@ -23,3 +23,7 @@ The walled environment's different forms were derived from different types of se
 ![Accelerometer](/assets/img/incite/05_process_1-01.png)
 
 ![Camera with pose detection](/assets/img/incite/05_process_2-01.png)
+
+### Technical Skills
+
+Unity, Vuforia, Rhino, 3DSMax, ml5js, p5js
