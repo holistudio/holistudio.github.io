@@ -33,7 +33,11 @@ Last but not least, the logo was also designed to resemble other chat interfaces
 
 <div class="row"><div class="column"></div><div class="column"><img width="150" src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"></div></div>
 
-### Credits
+### Technical Skills
+
+Illustrator, Invision, ReactJS, Webpack
+
+### Team
 
 Frontend/UX (ReactJS): Dan Lu
 Backend (PostgreSQL/AWS/ReacJS): Robert Chen, Wences Lee
