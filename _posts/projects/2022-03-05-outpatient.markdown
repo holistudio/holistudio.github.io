@@ -15,7 +15,7 @@ Initial investigations into such applications have developed virtual reality mod
 
 Future work should specifically identify the critical needs of outpatient clinic occupants, be they medical staff or patients, and map them to appropriate responsive environment technologies. By integrating considerations of how the physical space should be designed and how interactive technologies should serve occupants, architects and engineers can create spaces that enable outpatient practices to operate more effectively and better serve their patients with a quality experience.
 
-## Technical Skills
+### Technical Skills
 
 Unity, Rhino
 
