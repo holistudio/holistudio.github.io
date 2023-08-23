@@ -33,6 +33,8 @@ Last but not least, the logo was also designed to resemble other chat interfaces
 
 <div class="row"><div class="column"></div><div class="column"><img width="150" src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"></div></div>
 
+Side Note: At the time we did this project, large language models were commonly found in research and some early commercial APIs, though not at the performance and usability of ChatGPT. A part of me wonders how this would have turned out with a generative AI asking questions rather than a preloaded set.
+
 ### Technical Skills
 
 Illustrator, Invision, ReactJS, Webpack
@@ -41,4 +43,4 @@ Illustrator, Invision, ReactJS, Webpack
 
 Frontend/UX (ReactJS): Dan Lu
 
-Backend (PostgreSQL/AWS/ReacJS): Robert Chen, Wences Lee
+Backend (PostgreSQL/AWS/ReactJS): Robert Chen, Wences Lee
