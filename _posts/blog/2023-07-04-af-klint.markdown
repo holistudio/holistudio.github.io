@@ -15,21 +15,21 @@ This was the first thing I saw in the exhibit:
 
 ![hidden quote](/assets/img/af-klint/00_IMG_5359.png)
 
-Maybe I was tired. Maybe I’m just dumb. But I really thought the quote was intentionally shown with parts of it missing. And then I walked closer to the quote. It’s fully readable up close but parts of it disappear as you stand farther away and look at it. Then I read the quote:
+Maybe I was tired. Maybe I’m just dumb. But I really thought the quote was intentionally shown with parts of it missing. And then I walked closer to the wall. Turns out, the quote is fully visible up close:
 
 ![quote revealed](/assets/img/af-klint/01_IMG_5360.png)
 
 And that’s probably when the espresso kicked in. 
 
-All of the sudden, I realized it was the way the text paint reflected the gallery lights, causing it to look like parts were missing from afar, but actually depending on where you stood relative to the wall. And just as the quote suggests, I became self-aware of the nature of my own perception. I was in awe.
+All of the sudden, I realized it was the way the text paint reflected some of the gallery lighting, causing the text to appear like parts were missing from afar. What was visible to you depended on where you stood relative to the wall. And just as the quote suggests, I became self-aware of the nature of my own perception. I was in awe.
 
-I asked a museum staff whether this was intentional and they weren’t sure. I’d like to think this was an intended feature, because in a way, this interplay between perception, nature, and understanding was a consistent theme in af Klint’s works on display.
+I asked a museum staff whether this was intentional and they weren’t sure. I’d like to think this was an intended feature, because this interplay between perception, nature, and understanding was a consistent theme in af Klint’s works on display.
 
-And walking through the rest of the exhibit, I began to learn more about Hilma af Klint and the world in which she became an artist. One of the exhibition’s main themes is how af Klint’s artistic process was deeply rooted in the scientific and religious discussions of the time. So artifacts and drawings by Carl Linnaeus and Rudolf Steiner** were placed side by side with af Klint’s sketches, revealing connections between the ideas of the times and her own process. 
+And walking through the rest of the exhibit, I began to learn more about Hilma af Klint and the world in which she worked as an artist. One of the exhibition’s main themes is how af Klint’s artistic process was deeply rooted in the scientific and religious discussions of the time. So artifacts and drawings by Carl Linnaeus and Rudolf Steiner** were placed side by side with af Klint’s sketches, revealing connections between contemporary ideas and her own process. 
 
 <img src="/assets/img/af-klint/02_IMG_5367.png" alt="Linnaeus and af Klint" width="400"/><br/>Left, flower classification diagrams by Carl Linnaeus. Right, diagram sketches by Hilma af Klint.
 
-Though a lot of Rudolf Steiner’s ideas are considered religious pseudoscience today**, I do recognize that he was trying to coherently frame a more unified theory of human existence in both physical and spiritual terms, all the while contemporary scientists were resolving life’s mysteries by uncovering the inner workings of the natural world. 
+Though a lot of Rudolf Steiner’s ideas are considered religious pseudoscience today**, I do recognize that he was trying to coherently frame a more unified theory of human existence to come to terms with both spirtual ideology and the latest findings by contemporary scientists that resolved some of life’s mysteries, the unobservable and the observed.
 
 <img src="/assets/img/af-klint/03_IMG_5382.jpg" alt="Steiner and af Klint" width="400"/><br/>Left, chalkboard diagrams by Rudold Steiner. Right, works by Hilma af Klint.
 
@@ -41,7 +41,7 @@ Even today, I think people who know they should maintain an objective and scient
 
 ![Atoms and cells sum up to something greater](/assets/img/af-klint/04_IMG_5399.jpg)
 
-Though I didn’t really care for the Christian symbolism in her work, I found myself relating to af Klint’s intent and process in so many ways. I’ve always been intrigued with how people still find meaning and beauty in a more scientific and technologically driven world (Feynman’s description of a flower, Zen and Art of Motorcycle Maintenance). I enjoy coding graphics with p5js and the broader pursuit of using systems of logic and patterns to make art.
+Though I didn’t really care for the Christian symbolism in her work, I found myself relating to af Klint’s intent and process in so many ways. I’ve always been intrigued with how people still find meaning and beauty in a more scientific and technologically driven world like Feynman’s description of a flower, and the entirety of Zen and Art of Motorcycle Maintenance. I enjoy coding graphics with p5js and the broader pursuit of using systems of logic and patterns to make art.
 
 <img src="/assets/img/af-klint/05_IMG_5400.jpg" alt="Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915" width="400"/><br/>Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915
 
@@ -49,7 +49,7 @@ But most of all, I really wonder what kind of art would af Klint make today, as 
 
 I would like to think that they would also look past generative AI as a tool for remixing creative works and be immensely curious about the machine learning research that went into building those generative models in the first place. My impression from the likes of Geoffrey Hinton, Yann LeCun, and Yoshua Bengio is that fundamental machine learning research does build off an understanding of how humans learn about the world around them. And so I’d bet that af Klint would eagerly sit through a lecture on the history of machine learning and recognize neural networks as major abstractions that distill parts of how people perceive reality.
 
-Some of her quotes and diagrams did suggest an interest in iridology, the study of patterns and colours on the iris of the human eye. I can’t imagine how af Klint would re-purpose her own skills of abstraction and artistry to really engage with the theories and methods of cognitive science, computer vision, and deep learning.
+Some of her quotes and diagrams did suggest an interest in iridology, the study of patterns and colours on the iris of the human eye. I can’t imagine how af Klint would re-purpose her own skills of abstraction and artistry to really engage with the theories and methods of computer vision and deep learning and their sources of inspiration in cognitive science, linguistics, and human anatomy.
 
 <img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/><br/>Iris Diagnosis Charts by af Klint
 
@@ -59,12 +59,11 @@ But since I can’t imagine how af Klint would respond to the fascinating theori
 
 <img src="/assets/img/af-klint/07_IMG_5374.png" alt="sheet music" width="300"/> <img src="/assets/img/af-klint/07_IMG_5376.png" alt="architecture" width="300"/><br/>Left, digital scans of af Klint's notebook which contains sheet music sketches paired with other diagrams. Right, museum model makers' interpretation of a temple which af Klint sketched and imagined where she wished people could visit to experience her work.
 
-I left the exhibit with a strong sense of how art can take inspiration from science. af Klint really danced with the scientific and philosophical ideas of her time and produced works that prompted viewers to look past their physical reality and find something transcending that existence. While I don’t think I would agree with the entirety of af Klint’s thinking back then, word for word, I did feel a strong connection to her process and approach to art and storytelling.
-
-
+I left the exhibit with a strong sense of how art can take inspiration from emerging science and technology. af Klint really danced with the ideas of her time and produced works that prompted viewers to look past their physical reality and find something transcending that existence. While I don’t think I would agree with the entirety of af Klint’s thoughts word for word, I did feel a strong connection to her process and approach to art and storytelling.
+<br/>
+<br/>
 “I am an atom in the universe that has access to infinite possibilities of development. These possibilities I want, gradually, to reveal”
-
-Hilma af Klint, 1916
+<br/>-Hilma af Klint, 1916
 <br/>
 <br/>
 <br/>
