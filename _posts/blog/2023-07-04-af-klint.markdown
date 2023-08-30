@@ -53,9 +53,9 @@ I would like to think that they would also look past generative AI as a tool for
 
 Some of her quotes and diagrams did suggest an interest in iridology, the study of patterns and colours on the iris of the human eye. I can’t imagine how af Klint would re-purpose her own skills of abstraction and artistry to really engage with the theories and methods of cognitive science, computer vision, and deep learning.
 
-<img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/><br/>Iris Diagnosis Chart for af Klint
+<img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/><br/>Iris Diagnosis Charts by af Klint
 
-<img src="/assets/img/af-klint/06_IMG_5401.png" alt="Hilma af Klint on the nature of perception" width="400"/>
+![Hilma af Klint on the nature of perception](/assets/img/af-klint/06_IMG_5401.png)
 
 But since I can’t imagine how af Klint would respond to the fascinating theories behind machine learning, I’m ever more inspired to make something of my own in her spirit. Further encouraging me are the various genres her thoughts seem to span, beyond painting and drawing. The exhibit displayed notebook sketches with sheet music sketches and architectural models.
 
