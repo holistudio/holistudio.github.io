@@ -27,15 +27,11 @@ I asked a museum staff whether this was intentional and they weren’t sure. I�
 
 And walking through the rest of the exhibit, I began to learn more about Hilma af Klint and the world in which she became an artist. One of the exhibition’s main themes is how af Klint’s artistic process was deeply rooted in the scientific and religious discussions of the time. So artifacts and drawings by Carl Linnaeus and Rudolf Steiner** were placed side by side with af Klint’s sketches, revealing connections between the ideas of the times and her own process. 
 
-<img src="/assets/img/af-klint/02_IMG_5367.png" alt="Linnaeus and af Klint" width="400"/>
-
-Left, flower classification diagrams by Carl Linnaeus. Right, diagram sketches by Hilma af Klint.
+<img src="/assets/img/af-klint/02_IMG_5367.png" alt="Linnaeus and af Klint" width="400"/><br>Left, flower classification diagrams by Carl Linnaeus. Right, diagram sketches by Hilma af Klint.
 
 Though a lot of Rudolf Steiner’s ideas are considered religious pseudoscience today**, I do recognize that he was trying to coherently frame a more unified theory of human existence in both physical and spiritual terms, all the while contemporary scientists were resolving life’s mysteries by uncovering the inner workings of the natural world. 
 
-<img src="/assets/img/af-klint/03_IMG_5382.jpg" alt="Steiner and af Klint" width="400"/>
-
-Left, chalkboard diagrams by Rudold Steiner. Right, works by Hilma af Klint.
+<img src="/assets/img/af-klint/03_IMG_5382.jpg" alt="Steiner and af Klint" width="400"/><br>Left, chalkboard diagrams by Rudold Steiner. Right, works by Hilma af Klint.
 
 Even today, I think people who know they should maintain an objective and scientific mindset still turn to religion and spiritual ideas because they desire some sense of meaning in their lives, a connection to something greater than their daily to-do’s. And so in the context of Steiner’s anthroposophy (or “spiritual science” as Steiner called it), I see in af Klint’s work the constant attempts to propose narratives that elegantly tie together the mystical spirit of life and the empirical models of the natural world around us.
 
@@ -57,17 +53,13 @@ I would like to think that they would also look past generative AI as a tool for
 
 Some of her quotes and diagrams did suggest an interest in iridology, the study of patterns and colours on the iris of the human eye. I can’t imagine how af Klint would re-purpose her own skills of abstraction and artistry to really engage with the theories and methods of cognitive science, computer vision, and deep learning.
 
-<img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/>
-
-Iris Diagnosis Chart for af Klint
+<img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/><br>Iris Diagnosis Chart for af Klint
 
 <img src="/assets/img/af-klint/06_IMG_5401.png" alt="Hilma af Klint on the nature of perception" width="400"/>
 
 But since I can’t imagine how af Klint would respond to the fascinating theories behind machine learning, I’m ever more inspired to make something of my own in her spirit. Further encouraging me are the various genres her thoughts seem to span, beyond painting and drawing. The exhibit displayed notebook sketches with sheet music sketches and architectural models.
 
-<img src="/assets/img/af-klint/07_IMG_5374.png" alt="sheet music" width="300"/> <img src="/assets/img/af-klint/07_IMG_5376.png" alt="architecture" width="300"/>
-
-Left, digital scans of af Klint's notebook which contains sheet music sketches paired with other diagrams. Right, museum model makers' interpretation of a temple which af Klint sketched and imagined where she wished people could visit to experience her work.
+<img src="/assets/img/af-klint/07_IMG_5374.png" alt="sheet music" width="300"/> <img src="/assets/img/af-klint/07_IMG_5376.png" alt="architecture" width="300"/><br>Left, digital scans of af Klint's notebook which contains sheet music sketches paired with other diagrams. Right, museum model makers' interpretation of a temple which af Klint sketched and imagined where she wished people could visit to experience her work.
 
 I left the exhibit with a strong sense of how art can take inspiration from science. af Klint really danced with the scientific and philosophical ideas of her time and produced works that prompted viewers to look past their physical reality and find something transcending that existence. While I don’t think I would agree with the entirety of af Klint’s thinking back then, word for word, I did feel a strong connection to her process and approach to art and storytelling.
 
