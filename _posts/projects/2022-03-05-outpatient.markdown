@@ -23,4 +23,4 @@ Unity, Rhino
 
 Lu, D., Ergan, S., Mann, D., & Lawrence, K. (2022). The Need for Responsive Environments: Bringing Flexibility to Clinic Spaces. In Construction Research Congress 2022 (pp. 812-821). https://doi.org/10.1061/9780784483961.085
 
-Lu, D. B., Ergan, S., Mann, D., & Lawrence, K. (2020). A Vision for Evaluations of Responsive Environments in Future Medical Facilities. In ISARC. Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 37, pp. 805-812). https://doi.org/10.22260/ISARC2020/0111
+Lu, D. B., Ergan, S., Mann, D., & Lawrence, K. (2020). A Vision for Evaluations of Responsive Environments in Future Medical Facilities. In ISARC Proceedings of the International Symposium on Automation and Robotics in Construction (Vol. 37, pp. 805-812). https://doi.org/10.22260/ISARC2020/0111
