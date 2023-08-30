@@ -53,7 +53,7 @@ Some of her quotes and diagrams did suggest an interest in iridology, the study 
 
 <img src="/assets/img/af-klint/06_IMG_5409.jpg" alt="af Klint Iris diagrams" width="400"/><br/>Iris Diagnosis Charts by af Klint
 
-![Hilma af Klint on the nature of perception](/assets/img/af-klint/06_IMG_5401.png)
+![Hilma af Klint on the nature of perception](/assets/img/af-klint/06_IMG_5401.png)<br/>I wonder what af Klint would think of convolutional neural networks today, as they essentially look past an image's raw form of pixels and try to associate relationships between that form's features and verbal descriptions.
 
 But since I can’t imagine how af Klint would respond to the fascinating theories behind machine learning, I’m ever more inspired to make something of my own in her spirit. Further encouraging me are the various genres her thoughts seem to span, beyond painting and drawing. The exhibit displayed notebook sketches with sheet music sketches and architectural models.
 
