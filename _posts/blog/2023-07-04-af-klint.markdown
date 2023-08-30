@@ -43,9 +43,7 @@ Even today, I think people who know they should maintain an objective and scient
 
 Though I didn’t really care for the Christian symbolism in her work, I found myself relating to af Klint’s intent and process in so many ways. I’ve always been intrigued with how people still find meaning and beauty in a more scientific and technologically driven world (Feynman’s description of a flower, Zen and Art of Motorcycle Maintenance). I enjoy coding graphics with p5js and the broader pursuit of using systems of logic and patterns to make art.
 
-<img src="/assets/img/af-klint/05_IMG_5400.jpg" alt="Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915" width="400"/>
-
-Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915
+<img src="/assets/img/af-klint/05_IMG_5400.jpg" alt="Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915" width="400"/><br/>Hilma af Klint - Group IX / SUW, no. 1 and 8. The Swan 1915
 
 But most of all, I really wonder what kind of art would af Klint make today, as ChatGPT and Midjourney generative AI has captured the fascination and concerns of artists and the general public. af Klint and Mondrian may well be concerned about the ethics of reusing art, including their own works being fed into training generative image models. 
 
