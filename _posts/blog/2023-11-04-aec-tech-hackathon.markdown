@@ -7,7 +7,7 @@ date:   2023-11-04
 
 I had a lot of fun this past weekend at the AEC Tech Hackathon at NYC. I really appreciated the open format of the hackathon. The whole event started with an "open mic" - anyone could walk up to the microphone at the front of a large room and pitch an idea they wanted to work on in the next 24 hours. Teams would organically form around the big ideas that more people were interested in. At the end, the presentations showed a wide range of ways of using AI in AEC applications.
 
-So I came away from the event with a lot of takeaways regarding the potential of AI in the architecture, engineering, and construction industry.
+Yes hackathons are a great place to share solutions. But they seem like an even better place to share problems. So I came away from the event with a lot of takeaways regarding both the promises and challenges of AI in the architecture, engineering, and construction industry.
 
 
 **Boring is the new sexy:** From the open mic, it was clear a lot of people just wanted an LLM or app to do something very time consuming and boring - rename all the rooms in a Revit model, review submittals, or help track progress on jobsite. The challenges didn't sound very "sexy" or "cool" but addressing them could have profound impact on people's productivity. To paraphrase Mostapha Roudsari, "Automating names of rooms is boring, but automating that inside Revit is exciting!"
