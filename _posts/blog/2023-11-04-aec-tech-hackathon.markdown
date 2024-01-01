@@ -29,5 +29,5 @@ As an architect explores design options with images from generative AI like DALL
 
 ![FURN-E data pipeline](/assets/img/hackathon/data_pipeline.png)
 
-Knowing this kind of tool can be repurposed in many other ways by designers looking to make generative AI images into a physical reality, we have made this project available on Github: https://github.com/orgs/TeamZombies/repositories
+Knowing this kind of tool can be repurposed in many other ways by designers looking to make generative AI images into a physical reality, we have made this project available on Github: <a>https://github.com/orgs/TeamZombies/repositories</a>
 
