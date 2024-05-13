@@ -13,6 +13,6 @@ My current PhD dissertation investigates using VR to collect detailed data on ho
 
 ### Publications
 
-Lu, D., & Ergan, S. (2023). Predicting roadway workers’ safety behaviour in short-term work zones. In European Group for Intelligent Computing in Engineering (EG-ICE).
+Lu, D., & Ergan, S. (2023). Predicting roadway workers’ safety behaviour in short-term work zones. In: Broy, T., Li, H., Lu, Q. (eds)  2023 EG-ICE International Conference on Intelligent Computing in Engineering. https://www.ucl.ac.uk/bartlett/construction/sites/bartlett_construction/files/predicting_roadway_workers_safety_behaviour_in_short-term_work_zones.pdf
 
 Qin, J., Lu, D., Ergan, S. (2023). Towards Increased Situational Awareness at Unstructured Work Zones: Analysis of Worker Behavioral Data Captured in VR-Based Micro Traffic Simulations. In: Skatulla, S., Beushausen, H. (eds) Advances in Information Technology in Civil and Building Engineering. ICCCBE 2022. Lecture Notes in Civil Engineering, vol 358. Springer, Cham. https://doi.org/10.1007/978-3-031-32515-1_6
