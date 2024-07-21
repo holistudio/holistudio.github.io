@@ -8,22 +8,22 @@ preview: /assets/img/preview_easeebot.png
 
 <iframe width="760" height="390" src="https://www.youtube.com/embed/Vg9fLL15KQ0?si=bElnQPi5l5da93WQ" title="EASEEbot: Robotic Envelope Assessment System for Energy Efficiency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-In the United States, buildings account for 28% of total primary energy usage and 40% greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope. While building energy audits and envelope inspections are necessary to maintain a building's energy efficiency, professional inspections can be expensive, time-consuming, and physically dangerous to inspectors. 
+In the United States, buildings account for 28% of total primary energy usage and 40% of greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope (i.e., walls, windows, roof). While energy audits and envelope inspections are necessary to maintain a building's energy efficiency, such undertakings can be expensive, time-consuming, and physically dangerous to inspectors. 
 
 Towards enhancing inspectors capabilities to assess building envelope conditions, we propose a robotic **e**nvelope **a**ssessment **s**ystem for **e**nergy **e**fficiency...or **EASEE**bot for short. The EASEEbot system has two use cases for human-robot collaboration between a building inspector and sensor-equipped robot: FLY and CLIMB.
 
-In the FLY use case, the drone can navigate around the building exterior with a thermal infrared camera, simultaneously capturing a 3D point cloud of the building's geometry and a temperature mapping identify areas of building envelope leaks. It can also navigate inside physically tight spaces, like attics, and perform similar camera surveys. 
+**FLY:** The drone can navigate around the building exterior with a thermal infrared camera, simultaneously capturing a 3D point cloud of the building's geometry and a temperature mapping identify areas of building envelope leaks. It can also navigate inside physically tight spaces, like attics, and perform similar camera surveys. 
 
 ![fly functions](/assets/img/easeebot/function_combined_0.png)
 
 This can save inspectors time and physical labor, especially in both large capital projects and low-rise residential buildings.
 
 
-In the CLIMB use case, the drone can be tethered on the vertical face of the building walls and scan the building envelope's internal layers for moisture using a ground-penetrating radar (GPR) sensor.
+**CLIMB:** The drone can be tethered and move along the vertical face of the building walls and scan the building envelope's internal layers for moisture using a ground-penetrating radar (GPR) sensor.
 
 ![climb functions](/assets/img/easeebot/function_combined_1.png)
 
-This mode can save inspectors and property owners the setup time for supported and suspended scaffolds, while collecting data on the building conditions without having to open up sections of the envelope structure.
+This can save inspectors and property owners the setup costs for installing supported and suspended scaffolds. Furthermore, the sensors can collect data on moisture conditions without having to open up sections of the envelope structure.
 
 
 We proposed the EASEEbot in the US Department of Energy's Envelope Retrofit Opportunities for Building Optimization Technologies [(E-ROBOT) Competition](https://www.herox.com/EROBOT/teams) and ended up as one of ten finalists, among over 400 competitors.
