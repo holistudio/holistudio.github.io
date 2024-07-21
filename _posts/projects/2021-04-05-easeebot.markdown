@@ -16,15 +16,19 @@ In the FLY use case, the drone can navigate around the building exterior with a 
 
 ![fly functions](/assets/img/easeebot/function_combined_0.png)
 
+This can save inspectors time and physical labor, especially in both large capital projects and low-rise residential buildings.
+
 
 In the CLIMB use case, the drone can be tethered on the vertical face of the building walls and scan the building envelope's internal layers for moisture using a ground-penetrating radar (GPR) sensor.
 
-![fly functions](/assets/img/easeebot/function_combined_1.png)
+![climb functions](/assets/img/easeebot/function_combined_1.png)
+
+This mode can save inspectors and property owners the setup time for supported and suspended scaffolds, while collecting data on the building conditions without having to open up sections of the envelope structure.
 
 
 We proposed the EASEEbot in the US Department of Energy's Envelope Retrofit Opportunities for Building Optimization Technologies [(E-ROBOT) Competition](https://www.herox.com/EROBOT/teams) and ended up as one of ten finalists, among over 400 competitors.
 
-Since the E-ROBOT competition, the team has applied for a patent and spun off as a [startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
+Since the E-ROBOT competition, the team has applied for a patent and spun off as a [building inspection startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
 
 
 **EASEEBot Team**
