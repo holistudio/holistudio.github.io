@@ -10,7 +10,7 @@ preview: /assets/img/preview_easeebot.png
 
 In the United States, buildings account for 28% of total primary energy usage and 40% greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope. While building energy audits and envelope inspections are necessary to maintain a building's energy efficiency, professional inspections can be expensive, time-consuming, and physically dangerous to inspectors. 
 
-Towards enhancing inspectors capabilities to assess building envelope conditions, we propose a robotic **e**nvelope **a**ssessment **s**ystem for **e**nergy **e**fficiency...or EASEEbot for short. The EASEEbot system has two use cases for human-robot collaboration between a building inspector and sensor-equipped robot: FLY and CLIMB.
+Towards enhancing inspectors capabilities to assess building envelope conditions, we propose a robotic **e**nvelope **a**ssessment **s**ystem for **e**nergy **e**fficiency...or **EASEE**bot for short. The EASEEbot system has two use cases for human-robot collaboration between a building inspector and sensor-equipped robot: FLY and CLIMB.
 
 In the FLY use case, the drone can navigate around the building exterior with a thermal infrared camera, simultaneously capturing a 3D point cloud of the building's geometry and a temperature mapping identify areas of building envelope leaks. It can also navigate inside physically tight spaces, like attics, and perform similar camera surveys. 
 
@@ -27,11 +27,9 @@ We proposed the EASEEbot in the US Department of Energy's Envelope Retrofit Oppo
 Since the E-ROBOT competition, the team has applied for a patent and spun off as a [startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
 
 
-EASEEBot Team
-
-Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
-
-Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
+**EASEEBot Team**
+- Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
+- Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
 
 ### Awards
 
