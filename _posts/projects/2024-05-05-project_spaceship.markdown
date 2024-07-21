@@ -9,7 +9,7 @@ preview: /assets/img/preview_spaceship.png
 
 ### What are we trying to do?
 
-Imagine you start stacking a few Lego blocks and then an AI/robot starts stacking blocks alongside you. Ideally, the AI can intuitively pick up what you are trying to build. Or even better, the AI's blocks inspire you to take your build in a different direction you never imagined beforehand!
+Imagine you start stacking a few Lego blocks and then an AI/robot starts stacking blocks alongside you. Ideally, the AI can intuitively pick up on what you are trying to build and suggest blocks towards your goal. Or even better, the AI's blocks inspire you to take your build in a different direction you never imagined beforehand!
 
 (This can happen in either the real-world with a robot arm stacking blocks OR a virtual/extended reality environment with 3D model blocks appearing wherever you/AI wants)
 
@@ -20,7 +20,7 @@ What would it take to get such a human-AI co-creation system to work?
 And on the other hand, how would it feel for human beings to interact with such an AI? 
  - Could we do everything without verbal communication? 
  - Would we really appreciate the AI's work or get annoyed?
- - Could we get inspired into new directions for making? Or will we quickly converge with the AI on a single solution?
+ - Could we get inspired into new directions for making, or just converge with the AI on a single solution?
  - (Or will we let it just take over since it seems so much more intelligent than us?)
 
 
