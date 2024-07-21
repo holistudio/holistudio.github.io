@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "EASEEbot"
+date:   2021-04-05 18:47:00
+preview: /assets/img/preview_easeebot.png
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg9fLL15KQ0?si=bElnQPi5l5da93WQ" title="EASEEbot: Robotic Envelope Assessment System for Energy Efficiency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
+In the United States, buildings account for 28% of total primary energy usage and 40% greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope. While building energy audits and envelope inspections are necessary to maintain a building's energy efficiency and structural safety, professional inspections are expensive, time-consuming, and dangerous to inspectors. 
+
+### Publications
+
+Xu X., Lu, D., Sher, B., Kim, S., Rathod, A., Ergan, S., Feng, C. (2021). Conceptual Design of a Robotic Building Envelope Assessment System for Energy Efficiency. In: Feng, C., Linner, T., Brilakis, I. (eds) 2021 Proceedings of the 38th ISARC. https://doi.org/10.22260/ISARC2021/0088
+
+### Patents
+
+Feng, C., Ergan, S., Sher, B., Xu, X., Chen, G., Javed, T., Madhusudhan, S., Mahesh, S., Vasudevan, A., Lu, D., Kiper, B. (2024). System and Method for Robotic Inspection", https://patents.google.com/patent/US20240134007A1/
+
