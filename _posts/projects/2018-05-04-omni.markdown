@@ -42,5 +42,4 @@ Illustrator, Invision, ReactJS, Webpack
 ### Team
 
 Frontend/UX (ReactJS): Dan Lu
-
-Backend (PostgreSQL/AWS/ReactJS): Robert Chen, Wences Lee
+<br>Backend (PostgreSQL/AWS/ReactJS): Robert Chen, Wences Lee
