@@ -32,7 +32,7 @@ But designs are not just defined by written words. And designers operate beyond 
 
 Current state-of-the-art research on embodied AI focuses on related issues: how can AI develop a higher level reasoning and learn through multi-modal interactions with the world?
 
-An embodied AI that can interact with designers through direct manipulation of the objects may present both benefits and challenges in user experience.
+An embodied AI that can understand designers' intent and directly manipulate design models may present benefits and challenges to that AI's user experience. But we won't know until we really get there...
 
 
 ### If we succeed, what difference do we think it will make?
