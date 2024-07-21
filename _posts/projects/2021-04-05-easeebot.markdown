@@ -6,9 +6,36 @@ preview: /assets/img/preview_easeebot.png
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg9fLL15KQ0?si=bElnQPi5l5da93WQ" title="EASEEbot: Robotic Envelope Assessment System for Energy Efficiency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe width="760" height="390" src="https://www.youtube.com/embed/Vg9fLL15KQ0?si=bElnQPi5l5da93WQ" title="EASEEbot: Robotic Envelope Assessment System for Energy Efficiency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-In the United States, buildings account for 28% of total primary energy usage and 40% greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope. While building energy audits and envelope inspections are necessary to maintain a building's energy efficiency and structural safety, professional inspections are expensive, time-consuming, and dangerous to inspectors. 
+In the United States, buildings account for 28% of total primary energy usage and 40% greenhouse gas (GHG) emissions. Some studies estimate energy costs could be reduced by up to 20% by better sealing the building envelope. While building energy audits and envelope inspections are necessary to maintain a building's energy efficiency, professional inspections can be expensive, time-consuming, and physically dangerous to inspectors. 
+
+Towards enhancing inspectors capabilities to assess building envelope conditions, we propose a robotic **e**nvelope **a**ssessment **s**ystem for **e**nergy **e**fficiency...or EASEEbot for short. The EASEEbot system has two use cases for human-robot collaboration between a building inspector and sensor-equipped robot: FLY and CLIMB.
+
+In the FLY use case, the drone can navigate around the building exterior with a thermal infrared camera, simultaneously capturing a 3D point cloud of the building's geometry and a temperature mapping identify areas of building envelope leaks. It can also navigate inside physically tight spaces, like attics, and perform similar camera surveys. 
+
+![fly functions](/assets/img/easeebot/function_combined_0.png)
+
+
+In the CLIMB use case, the drone can be tethered on the vertical face of the building walls and scan the building envelope's internal layers for moisture using a ground-penetrating radar (GPR) sensor.
+
+![fly functions](/assets/img/easeebot/function_combined_1.png)
+
+
+We proposed the EASEEbot in the US Department of Energy's Envelope Retrofit Opportunities for Building Optimization Technologies [(E-ROBOT) Competition](https://www.herox.com/EROBOT/teams) and ended up as one of ten finalists, among over 400 competitors.
+
+Since the E-ROBOT competition, the team has applied for a patent and spun off as a [startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
+
+
+EASEEBot Team
+
+Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
+
+Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
+
+### Awards
+
+Finalist in US Department of Energy (DOE) Envelope Retrofit Opportunities for Building Optimization Technologies (E-ROBOT) Competition Phase 1 (April 2022)
 
 ### Publications
 
