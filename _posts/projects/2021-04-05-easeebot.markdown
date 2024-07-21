@@ -31,8 +31,9 @@ We proposed the EASEEbot in the US Department of Energy's Envelope Retrofit Oppo
 Since the E-ROBOT competition, the team has applied for a patent and spun off as a [building inspection startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
 
 
-**EASEEBot Team**
-<br>Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
+### Team
+
+Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
 <br>Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
 
 ### Awards
