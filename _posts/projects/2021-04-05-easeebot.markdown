@@ -42,7 +42,7 @@ Finalist in US Department of Energy (DOE) Envelope Retrofit Opportunities for Bu
 
 ### Publications
 
-Xu X., Lu, D., Sher, B., Kim, S., Rathod, A., Ergan, S., Feng, C. (2021). Conceptual Design of a Robotic Building Envelope Assessment System for Energy Efficiency. In: Feng, C., Linner, T., Brilakis, I. (eds) 2021 Proceedings of the 38th ISARC. https://doi.org/10.22260/ISARC2021/0088
+Xu, X., Lu, D., Sher, B., Kim, S., Rathod, A., Ergan, S., Feng, C. (2021). Conceptual Design of a Robotic Building Envelope Assessment System for Energy Efficiency. In: Feng, C., Linner, T., Brilakis, I. (eds) 2021 Proceedings of the 38th ISARC. https://doi.org/10.22260/ISARC2021/0088
 
 ### Patents
 
