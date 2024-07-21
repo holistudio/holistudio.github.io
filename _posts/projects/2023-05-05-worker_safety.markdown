@@ -11,7 +11,13 @@ While maintaining public streets and highways, roadway construction workers have
 
 My current PhD dissertation investigates using VR to collect detailed data on how construction workers behave near dangerous vehicles (e.g., speeding cars) and how wearable devices (e.g., smartwatch alarms) can improve their safety. More info upon request by contacting dbl299 [at] nyu [dot] edu.
 
+### Technical Skills
+
+Unity, HTC Vive API, C#, Python, PyTorch, Reinforcement Learning, RaspberryPi, Wearable Prototyping
+
 ### Publications
+
+Lu, D., & Ergan, S. (2024). A machine learning-based identification of key attributes of wearable alarm patterns to improve roadway worker safety. Automation in Construction. (Under Review)
 
 Lu, D., & Ergan, S. (2024). Reinforcement learning-based optimal control of alert systems to mitigate alarm fatigue for roadway worker safety. In: Road Safety and Simulation Conference.
 
