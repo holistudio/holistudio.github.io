@@ -15,7 +15,7 @@ A basic Unity prototype was first developed to test the time travel and climate 
 
 <iframe src="https://player.vimeo.com/video/411800037?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"  width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="VR Interaction Prototype"></iframe>
 
-
+<br>
 This was my first time making a Unity 3D game basically from scratch, for NYU's DM-GY 9103 Remixing Reality: Social Dreaming in MR, Spring 2020. It later became a useful code basis for [experiments in responsive outpatient clinic spaces](https://holistudio.github.io/2022/03/05/outpatient/).
 
 ### Team
