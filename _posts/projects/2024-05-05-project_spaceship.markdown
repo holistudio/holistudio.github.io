@@ -5,7 +5,7 @@ date:   2023-06-14 18:47:00
 preview: /assets/img/preview_spaceship.png
 ---
 
-[SPACESHIP!](/assets/img/preview_spaceship.png)
+![SPACESHIP!](/assets/img/preview_spaceship.png)
 
 ### What are we trying to do?
 
@@ -20,6 +20,8 @@ What would it take to get such a human-AI co-creation system to work?
 And on the other hand, how would it feel for human beings to interact with such an AI? 
  - Could we do everything without verbal communication? 
  - Would we really appreciate the AI's work or get annoyed?
+ - Could we get inspired into new directions for making? Or will we quickly converge with the AI on a single solution?
+ - (Or will we let it just take over since it seems so much more intelligent than us?)
 
 
 ### What is new about our approach?
@@ -48,5 +50,5 @@ This project is currently in progress on my [GitHub](https://github.com/holistud
 
 The dev log for this project can be found [here](https://github.com/holistudio/project-spaceship/blob/main/UPDATES.md).
 
-
+Feel free to reach out and shoot me an email at daniel.bin.lu [at] gmail [dot] com.
 
