@@ -32,8 +32,8 @@ Since the E-ROBOT competition, the team has applied for a patent and spun off as
 
 
 **EASEEBot Team**
-- Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
-- Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
+<br>Concept Design and Use Cases: Bilal Sher, Daniel Lu, Beyza Kiper, Semiha Ergan
+<br>Robotic Design: Bilal Sher, Xuchu Xu, Chen Feng
 
 ### Awards
 
