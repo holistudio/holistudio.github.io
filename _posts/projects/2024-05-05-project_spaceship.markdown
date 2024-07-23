@@ -9,37 +9,35 @@ preview: /assets/img/preview_spaceship.png
 
 ### What are we trying to do?
 
-Imagine you start stacking a few Lego blocks and then an AI/robot starts stacking blocks alongside you. Ideally, the AI can intuitively pick up on what you are trying to build and suggest blocks towards your goal. Or even better, the AI's blocks inspire you to take your build in a different direction you never imagined beforehand!
-
-(This can happen in either the real-world with a robot arm stacking blocks OR a virtual/extended reality environment with 3D model blocks appearing wherever you/AI wants)
+Imagine you start stacking a few Lego blocks and then an robotic arm* starts stacking blocks alongside you. Ideally, the robot's AI can intuitively pick up on what you are trying to build and suggest blocks towards your goal. Or even better, the AI's blocks inspire you to take your build into a different direction you never imagined beforehand!
 
 What would it take to get such a human-AI co-creation system to work?
- - How would we train the AI to learn how to build different shapes, step-by-step?
- - How would we train the AI to understand what shapes are being built, given only a few of them?
+- How would we train the AI to to build different shapes, block-by-block step-by-step?
+- How would we train the AI to recognize what shapes are being built, given only a few of blocks placed in front of it?
 
 And on the other hand, how would it feel for human beings to interact with such an AI? 
- - Could we do everything without verbal communication? 
- - Would we really appreciate the AI's work or get annoyed?
- - Could we get inspired into new directions for making, or just converge with the AI on a single solution?
- - (Or will we let it just take over since it seems so much more intelligent than us?)
+- Could we build with the AI without any verbal communication or text prompts? 
+- Would we really appreciate the blocks placed by the AI or get annoyed?
+- Could we get inspired into new directions for making something, or just converge with the AI on a single shape?
+- (Or will we let the AI take over since it seems so much more intelligent than us?)
 
 
 ### What is new about our approach?
 
-Large language models, like ChatGPT, point to new ways of verbally communicating with AI. Generative image AI, like Midjourney, point to new ways for designers to get assistance from AI through verbal language.
+Large language models, like ChatGPT, point to new ways of verbally communicating with AI. Generative AI, like Midjourney, point to new ways for designers to iterate and curate design options with text prompts.
 
-But designs are not just defined by written words. And designers operate beyond the space of natural language.
+But designers operate beyond the space of natural language. Design is also a unique language on its own.
 
-Current state-of-the-art research on embodied AI focuses on related issues: how can AI develop a higher level reasoning and learn through multi-modal interactions with the world?
+Current research on embodied AI focuses on related issues. How can AI develop a higher level reasoning and learn through multi-modal interactions with the world?
 
-An embodied AI that can understand designers' intent and directly manipulate design models may present benefits and challenges to that AI's user experience. But we won't know until we really get there...
+An embodied AI that can understand designers' implicit intents and directly manipulate design models' components may present a new kind of user experience with its own benefits and challenges. But we won't know what those benefits and challenges are until we really get there...
 
 
 ### If we succeed, what difference do we think it will make?
 
-For now, this project serves as a "toy data experiment" for an embodied AI with human-in-the-loop.
+For now, I'll start by training an AI to build and identify shapes on [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore). Then I'll make a Unity3D game where the user stacks blocks to make a common 3D shape and the AI can then stack a few more blocks. Hopefully the AI can correctly identify the shape being built and assists the user in completing that shape. This project will serve as a "toy data experiment" for an embodied AI co-creating with a human-in-the-loop.
 
-But it can one day lay the foundation for various applications for designers of all sorts: architectural designers during concept massing, product designers developing novel form factors, industrial engineers developing packaging...even making your own spaceship!
+But this toy data experiment approach can one day lead to various AI co-creation applications for designers of all sorts: architects during concept design, industrial designers developing manufacturing sequences...or a kid just making their own spaceship!
 
 ![spaceship-guy](/assets/img/spaceship/lego_guy.gif)
 
@@ -52,3 +50,6 @@ The dev log for this project can be found [here](https://github.com/holistudio/p
 
 Feel free to reach out and shoot me an email at daniel.bin.lu [at] gmail [dot] com.
 
+### Footnotes
+
+*This can happen in either the real-world with a robot arm stacking blocks OR a virtual/extended reality environment with 3D model blocks appearing wherever you/AI wants. For now, getting something working in a 3D game environment (i.e., Unity 3D desktop) is a good place to start.
