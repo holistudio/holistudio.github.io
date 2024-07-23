@@ -16,7 +16,7 @@ Towards enhancing inspectors capabilities to assess building envelope conditions
 
 ![fly functions](/assets/img/easeebot/function_combined_0.png)
 
-This can save inspectors significant time and physical labor, especially in both large capital projects and low-rise residential buildings.
+This can save inspectors significant time and physical labor, especially in both urban high-rises and low-rise residential buildings.
 
 
 **CLIMB:** The drone can also be tethered and move along the vertical face of the building walls to scan the building envelope's internal layers for moisture using a ground-penetrating radar (GPR) sensor (below right).
@@ -25,7 +25,7 @@ This can save inspectors significant time and physical labor, especially in both
 
 This can save inspectors the trouble of opening up sections of the wall for moisture damage evaluation, since the sensors can assess moisture conditions from the outside (i.e., nondestructive testing). This can also save property owners the setup costs for installing otherwise required scaffolds around the building envelope.
 
-We proposed EASEEbot to the US Department of Energy in its Envelope Retrofit Opportunities for Building Optimization Technologies [(E-ROBOT) Competition](https://www.herox.com/EROBOT/teams) and ended up as one of ten finalists.
+We proposed the EASEEbot system to the US Department of Energy in its Envelope Retrofit Opportunities for Building Optimization Technologies [(E-ROBOT) Competition](https://www.herox.com/EROBOT/teams) and ended up as one of ten finalists.
 
 Since the E-ROBOT competition, the team has applied for a patent and spun off as a [building inspection startup](https://www.linkedin.com/company/building-diagnostic-robotics/).
 
