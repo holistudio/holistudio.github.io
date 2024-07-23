@@ -46,9 +46,7 @@ But the same approach can one day lead to various AI co-creation applications fo
 
 This project is currently in progress on my [GitHub](https://github.com/holistudio/project-spaceship).
 
-The dev log for this project can be found [here](https://github.com/holistudio/project-spaceship/blob/main/UPDATES.md).
-
-Feel free to reach out and shoot me an email at daniel.bin.lu [at] gmail [dot] com.
+Check out my current progress on my dev log for this project [here](https://github.com/holistudio/project-spaceship/blob/main/UPDATES.md).
 
 ### Footnotes
 
