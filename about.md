@@ -4,11 +4,7 @@ title: about me
 permalink: /about/
 ---
 
-Hi! I'm a design technologist currently investigating the use of virtual reality, wearables, and machine learning in architectural design and construction processes as a PhD researcher at the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) at New York University. My main interests are in questions at the intersection of Human Computer Interaction (HCI) and the built environment, such as:
-
- - How can architects collaborate with AI to design buildings?
- - How can VR and wearables help identify what people want from their spaces? 
- - How can your surrounding environment elegantly adapt to your changing needs?
+Hi! I'm a design technologist and researcher currently investigating the use of virtual reality, wearables, and machine learning in architectural design and construction processes as a PhD researcher at the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) at New York University. My main interests are in generative AI and human computer interaction, particularly in applications for designers of all kinds (architects, engineers, kids with Legos). My past experience in architectural engineering and current dissertation on [VR and AI to develop wearables for traffic construction workers](https://holistudio.github.io/2023/05/05/worker_safety/) is fueling my interests in those topics, albeit in a different application domain.
 
 Beyond that, I'm always up for using my coding and design skills for any form of storytelling: data visualization, graphic design, photography, music, film.
 
