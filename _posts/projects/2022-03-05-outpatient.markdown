@@ -5,15 +5,15 @@ date:   2022-03-05 18:47:00
 preview: /assets/img/preview_outpatient.png
 ---
 
-The healthcare industry has recently been facing a number of technological trends, including telemedicine, health tracking wearables, and AI-augmented tools. These trends are changing what patients expect out of their doctor's visit and changing how healthcare workers expect to work in outpatient practices. Architects and engineers need to rethink their process of designing an outpatient clinic's physical space and building systems to be more flexible and adaptive to these changing expectations.
+Recent technological trends in healthcare, such as telemedicine, wearables, and AI-augmented tools, are changing what patients expect out of their doctor's visit and changing how healthcare workers expect to work in outpatient practices. Architects and engineers need to rethink their process of designing outpatient clinics' physical spaces and building systems to be more flexible and adaptive to these changing expectations.
 
-Responsive environment technologies (e.g., robotic furniture, smart lighting, etc.) can provide the means to improve the flexibility of spaces. Though these technologies have found some initial success in residential spaces, such innovations have yet to be applied to outpatient clinic rooms.
+Responsive environment technologies (e.g., robotic furniture, smart lighting, etc.) can provide the means to improve the flexibility of interior spaces. Though these technologies have found some initial success in residential buildings, such innovations have yet to be applied to the different kinds of rooms in outpatient clinics.
 
 ![room transformations](/assets/img/outpatient/transformations.png)
 
-Initial investigations into such applications have developed virtual reality (VR) models of robotic furniture and wall transformations: how a physician office can transform into a patient room (above left), how workspaces can transform into a meeting room between physicians and their assistants (above right). Healthcare workers later interacted with these VR models in real-time. While they mostly expressed an enthusiasm for these ideas, some healthcare workers expressed concerns for how the transformations would fit into their usual workflows.
+Initial investigations into such applications have developed virtual reality (VR) models of robotic furniture and wall transformations: how a physician's office can transform into a patient room (above left), how workspaces can transform into a meeting room between physicians and their assistants (above right). Healthcare workers interacted with these VR models transforming in real-time. While they mostly expressed an enthusiasm for these ideas, some healthcare workers expressed concerns for how the room transformations would fit into their typical medical workflows.
 
-Future work should specifically identify the critical needs of outpatient clinic occupants, be they healthcare workers or patients. Those needs would then need to be mapped to appropriate responsive environment technologies. By integrating considerations for how both physical spaces and interactive technologies serve occupants, architects and engineers can create spaces that enable outpatient practices to serve their patients with a quality healthcare experience.
+Future work should specifically identify the critical needs of outpatient clinic occupants, be they healthcare workers or patients. Those needs would then need to be mapped to appropriate responsive environment technologies that adapt to those needs at the right time and physical scales. By considering upfront how responsive environment technologies can serve building occupants, architects and engineers can create spaces that enable outpatient practices to serve their patients with a quality healthcare experience.
 
 ### Technical Skills
 
