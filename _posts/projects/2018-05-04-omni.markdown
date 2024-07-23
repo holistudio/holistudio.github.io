@@ -5,7 +5,7 @@ date:   2018-05-04 18:47:00
 preview: /assets/img/preview_omni.png
 ---
 
-Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the nuances of the stories and ideas you're interested in, but not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
+Finding a book you want to read isn't always a quick Google search away. Sometimes a conversation with a friend can suss out the important nuances of the stories and ideas you're interested in. But not all of your friends have a vast body of knowledge of all the books that are out there. This web app project explored the possibilities of a chatbot that makes books recommendations after having a conversation with you.
 
 ![chatbox animation](/assets/img/omni/intro.gif)
 
@@ -23,17 +23,17 @@ Responsive design for mobile interfaces were developed.
 
 ![storyboard](/assets/img/omni/08_storyboard-mobile.png)
 
-Early iterations focused on the dynamic layout and typography, while later iterations added a warm color palette to counteract any sci-fi hi-tech connotations of the experience.
+Early iterations focused on the responsive design layout and typography, while later iterations added a warm color palette to counteract any sci-fi hi-tech connotations of the experience.
 
 ![sci-fi](/assets/img/omni/06_dev02.png)
 
 ![warm](/assets/img/omni/06_screen8.png)
 
-Last but not least, the logo was also designed to resemble other chat interfaces and reflect the project name.
+Last but not least, the logo was also designed to resemble other chat interfaces and reflect the project/chatbot's name.
 
 <div class="row"><div class="column"></div><div class="column"><img width="150" src="/assets/img/omni/07_logo_rev1.png"></div><div class="column"></div></div>
 
-Side Note: At the time we did this project, large language models were commonly found in research and some early commercial APIs, though not at the performance and usability of ChatGPT. A part of me wonders how this would have turned out with a generative AI asking questions rather than a preloaded set.
+Side Note: At the time we did this project, Omni only asked a preset list of questions. Large language models were commonly found in research and some early commercial APIs, though not at the performance and usability of ChatGPT. A part of me wonders how this would have turned out with a generative AI asking questions rather than a preset list of questions...
 
 ### Technical Skills
 
