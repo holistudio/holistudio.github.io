@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Omni"
-date:   2018-05-04 18:47:00
+date:   2018-05-06 18:47:00
 preview: /assets/img/preview_omni.png
 ---
 
