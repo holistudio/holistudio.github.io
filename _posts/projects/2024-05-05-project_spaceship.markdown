@@ -26,7 +26,7 @@ And on the other hand, how would it feel for human beings to interact with such 
 
 Large language models, like ChatGPT, point to new ways of verbally communicating with AI. Generative AI, like Midjourney, point to new ways for designers to iterate and curate design options with text prompts.
 
-But designers operate beyond the space of natural language. Design is also a unique language on its own.
+But designers operate beyond the space of natural language. Design can be a language all on its own.
 
 Current research on embodied AI focuses on related issues. How can AI develop a higher level reasoning and learn through multi-modal interactions with the world?
 
@@ -37,7 +37,7 @@ An embodied AI that can understand designers' implicit intents and directly mani
 
 For now, I'll start by training an AI to build and identify shapes on [ShapeNet](https://huggingface.co/datasets/ShapeNet/ShapeNetCore). Then I'll make a Unity3D game where the user stacks blocks to make a common 3D shape and the AI can then stack a few more blocks. Hopefully the AI can correctly identify the shape being built and assists the user in completing that shape. This project will serve as a "toy data experiment" for an embodied AI co-creating with a human-in-the-loop.
 
-But this toy data experiment approach can one day lead to various AI co-creation applications for designers of all sorts: architects during concept design, industrial designers developing manufacturing sequences...or a kid just making their own spaceship!
+But the same approach can one day lead to various AI co-creation applications for designers of all sorts: architects during concept design, industrial designers developing manufacturing sequences...or a kid just making their own spaceship!
 
 ![spaceship-guy](/assets/img/spaceship/lego_guy.gif)
 
