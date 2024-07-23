@@ -13,6 +13,6 @@ What if all you needed was a single camera? Using a computer vision model traine
 
 Ideally, this means there's **no mo**re need for **mo**tion **cap**ture suits.
 
-After taking a robot perception course and computer graphics course at NYU Tandon the same semester, both of which assigned a final project, I decided to combine the two: generate 3D human figures with computer vision libraries, then animate them in 3D using OpenGL.
+After takingb both a robot perception course and a computer graphics course at NYU Tandon the same semester, each of which assigned a final project, I decided to combine the two: generate 3D human figures with computer vision libraries, then animate them in 3D using OpenGL.
 
 Full 3D pose and animation pipeline code can be found on [Github](https://github.com/holistudio/nomocap), based on rayat137's [Pose_3D code](https://github.com/rayat137/Pose_3D) for 3D human pose generation.
