@@ -10,7 +10,7 @@ Like all martial arts, taichi started as a combat system, but gradually evolved 
 <iframe src="https://player.vimeo.com/video/327150676?h=fc720b863a" width="760" height="1013" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-As a person goes through the timeline of taichi's development, their surrounding natural and walled environment would also change.
+As a person goes through the timeline of taichi's development, their surrounding natural and walled environment also changes.
 
 ![Taichi timeline](/assets/img/incite/02_gallery_concept_0.png)
 
@@ -18,7 +18,7 @@ As a person goes through the timeline of taichi's development, their surrounding
 
 ![Responsive Environment Light](/assets/img/incite/04_gallery_geometry_composite.png)
 
-The walled environment's different forms were derived from different types of sensor data collected from the same martial arts movement: an accelerometer on the right fist, a camera with body pose detection software.
+The walled environment's different forms were derived from different types of sensor data collected from the same martial arts punch movement: an accelerometer on the right fist, a camera with body pose detection software.
 
 ![Accelerometer](/assets/img/incite/05_process_1-01.png)
 
@@ -26,4 +26,4 @@ The walled environment's different forms were derived from different types of se
 
 ### Technical Skills
 
-Unity, Vuforia, Rhino, 3DSMax, ml5js, p5js, Processing, Arduino
+Unity, Vuforia, Rhino, 3ds Max, ml5js, p5js, Processing, Arduino
