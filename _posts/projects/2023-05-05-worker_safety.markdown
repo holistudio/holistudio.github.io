@@ -17,7 +17,7 @@ Unity, HTC Vive API, C#, Python, PyTorch, Reinforcement Learning, RaspberryPi, W
 
 ### Publications
 
-Lu, D., & Ergan, S. (2024). A machine learning-based identification of key attributes of wearable alarm patterns to improve roadway worker safety. Automation in Construction. (Under Review)
+Lu, D., & Ergan, S. (2024). A machine learning-based identification of key attributes of wearable alarm patterns to improve roadway worker safety. Accident Analysis & Prevention. (In Progress)
 
 Lu, D., & Ergan, S. (2024). Reinforcement learning-based optimal control of alert systems to mitigate alarm fatigue for roadway worker safety. In: Road Safety and Simulation Conference. (Accepted)
 
