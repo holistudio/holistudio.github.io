@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Minika"
+date:   2024-04-31 20:52:00
+preview: /assets/img/preview_minika.png
+---
+
+<iframe title="Minika" src="https://player.vimeo.com/video/1004969978?h=57b4b57ac1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen ></iframe>
+
+A minimalist remake of that watermelon game in Unity.
+
+Code is on Github: https://github.com/holistudio/minika
