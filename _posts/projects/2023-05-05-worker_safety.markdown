@@ -17,11 +17,11 @@ Unity, HTC Vive API, C#, Python, PyTorch, Reinforcement Learning, RaspberryPi, W
 
 ### Publications
 
-Lu, D., & Ergan, S. (2024). A machine learning-based identification of key attributes of wearable alarm patterns to improve roadway worker safety. Accident Analysis & Prevention. (In Progress)
+Lu, D., & Ergan, S. (2024). A machine learning-based identification of key attributes of wearable alarm patterns to improve roadway worker safety. Safety Science. (In Progress)
 
 Lu, D., & Ergan, S. (2024). Reinforcement learning-based optimal control of alert systems to mitigate alarm fatigue for roadway worker safety. In: Road Safety and Simulation Conference. (Accepted)
 
-Lordianto, B., Lu, D., Ho, W., & Ergan, S. (2024). Hapti-met: A construction helmet with directional haptic feedback for roadway worker safety. In: Riveiro, B., Arias, P. (eds) 2024 EG-ICE International Conference on Intelligent Computing in Engineering, Vigo, Spain, July, 2024. [PDF](https://universidadevigo-my.sharepoint.com/personal/belenriveiro_uvigo_gal/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fbelenriveiro%5Fuvigo%5Fgal%2FDocuments%2Ftemporal%2FProceedings%20manual%2Epdf&parent=%2Fpersonal%2Fbelenriveiro%5Fuvigo%5Fgal%2FDocuments%2Ftemporal&ga=1), page 460.
+Lordianto, B., Lu, D., Ho, W., & Ergan, S. (2024). Hapti-met: A construction helmet with directional haptic feedback for roadway worker safety. In: Riveiro, B., Arias, P. (eds) 2024 EG-ICE International Conference on Intelligent Computing in Engineering, Vigo, Spain, July, 2024. [PDF](https://www.researchgate.net/profile/Daniel-Lu-21/publication/383456833_Hapti-met_A_Construction_Helmet_with_Directional_Haptic_Feedback_for_Roadway_Worker_Safety/links/66ce1eb6b1606e24c2a3c6d1/Hapti-met-A-Construction-Helmet-with-Directional-Haptic-Feedback-for-Roadway-Worker-Safety.pdf)
 
 Lu, D., & Ergan, S. (2023). Predicting roadway workers’ safety behaviour in short-term work zones. In: Broy, T., Li, H., Lu, Q. (eds) 2023 EG-ICE International Conference on Intelligent Computing in Engineering. [PDF](https://www.ucl.ac.uk/bartlett/construction/sites/bartlett_construction/files/predicting_roadway_workers_safety_behaviour_in_short-term_work_zones.pdf)
 
