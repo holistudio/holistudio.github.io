@@ -9,7 +9,7 @@ While maintaining public streets and highways, roadway construction workers have
 
 ![VR roadway work zone simulation](/assets/img/safety-wear/promo.png)
 
-What if a wearable device (e.g., smartwatch) could intelligently warn workers of dangerous vehicles (e.g., speeding cars)? What aspects of worker behavior (head movement vs body movement) would be important to keep track of? What kinds of alarms (e.g., sound vs haptic/vibration) are effective? What if an AI, aware of a worker's current behavior, could pick the best alarm to raise on the wearable device? And how can we safely design and test such a smart wearable device without risking workers' lives?
+What if a wearable device (e.g., smartwatch) could intelligently warn workers of dangerous vehicles (e.g., speeding cars)? What aspects of worker behavior (head movement vs body movement) would be important to keep track of? What kinds of alarms (e.g., sound vs haptic/vibration) are effective? How could an AI, aware of a worker's current behavior and surrounding traffic, pick the best alarm to raise on the wearable device? And how can we safely design and test such a smart wearable device without risking workers' lives?
 
 My PhD [dissertation](https://www.proquest.com/docview/3213689744) investigates how virtual reality (VR), wearables, and machine learning can be used to improve roadway worker safety the following ways:
 
@@ -17,9 +17,9 @@ My PhD [dissertation](https://www.proquest.com/docview/3213689744) investigates 
  2. Collect data on how construction workers react to different alarms triggered by dangerous vehicle and analyze which alarm attributes (duration, repetitions) have the greatest safety impact.
  3. Use collected data to train AI (i.e., reinforcement learning) to pick alarms that are most likely to prompt an individual worker to react safely and consistently.
 
-All of these methods use a safe yet immersive VR environment where researchers can closely monitor people's risks and behavior in otherwise life-threatening traffic construction scenarios. 
+All of these methods use a safe yet immersive work zone simulation where researchers can closely monitor a construction worker's risks and behaviors in otherwise life-threatening traffic construction scenarios.
 
-Towards a future where smart wearable devices can help prevent construction worker-related traffic accidents, this research demonstrates how VR provides a much-needed testbed for prototyping novel AI applications prior to their real-world deployment.
+Towards a future where smart wearable devices can help prevent construction worker-related traffic accidents, this research demonstrates how VR provides a testbed staging area for prototyping novel AI applications prior to their real-world deployment.
  
 More info upon request by contacting dbl299 [at] nyu [dot] edu.
 
