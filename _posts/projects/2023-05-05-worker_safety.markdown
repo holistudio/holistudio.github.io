@@ -14,7 +14,9 @@ What if a wearable device (e.g., smartwatch) could intelligently warn workers of
 My PhD [dissertation](https://www.proquest.com/docview/3213689744) investigates how virtual reality (VR), wearables, and machine learning can be used to improve roadway worker safety the following ways:
 
  **1. Understand worker behavior:** Collect data on how construction workers move during roadwork and train AI models to predict their movements (i.e., trajectory prediction).
+
  **2. Understand worker reactions to alarms:** Collect data on how construction workers react to different alarms triggered by dangerous vehicle and analyze which alarm attributes (duration, repetitions) have the greatest safety impact.
+ 
  **3. Develop AI-based alarms:** Use that collected data to train AI (i.e., reinforcement learning) to pick alarms that are most likely to prompt an individual worker to react safely and consistently over their entire workday.
 
 All of the above methods can use a safe yet immersive work zone simulation where researchers can closely monitor a construction worker's risks and behaviors in otherwise life-threatening traffic construction scenarios.
