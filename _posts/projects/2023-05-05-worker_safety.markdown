@@ -13,13 +13,13 @@ What if a wearable device (e.g., smartwatch) could intelligently warn workers of
 
 My PhD [dissertation](https://www.proquest.com/docview/3213689744) investigates how virtual reality (VR), wearables, and machine learning can be used to improve roadway worker safety the following ways:
 
- 1. Collect data on how construction workers move during roadwork and train AI models to predict their movements (i.e., trajectory prediction).
- 2. Collect data on how construction workers react to different alarms triggered by dangerous vehicle and analyze which alarm attributes (duration, repetitions) have the greatest safety impact.
- 3. Use collected data to train AI (i.e., reinforcement learning) to pick alarms that are most likely to prompt an individual worker to react safely and consistently.
+ 1. **Understand worker behavior:** Collect data on how construction workers move during roadwork and train AI models to predict their movements (i.e., trajectory prediction).
+ 2. **Understand alarms:** Collect data on how construction workers react to different alarms triggered by dangerous vehicle and analyze which alarm attributes (duration, repetitions) have the greatest safety impact.
+ 3. **Develop AI-based alarms:** Use that collected data to train AI (i.e., reinforcement learning) to pick alarms that are most likely to prompt an individual worker to react safely and consistently over their entire workday.
 
 All of these methods use a safe yet immersive work zone simulation where researchers can closely monitor a construction worker's risks and behaviors in otherwise life-threatening traffic construction scenarios.
 
-Towards a future where smart wearable devices can help prevent construction worker-related traffic accidents, this research demonstrates how VR provides a testbed staging area for prototyping novel AI applications prior to their real-world deployment.
+Towards a future where smart wearable devices can help prevent construction worker-related traffic accidents, this research demonstrates how VR provides a testbed staging area for prototyping novel AI applications prior to their real-world testing and deployment.
  
 More info upon request by contacting dbl299 [at] nyu [dot] edu.
 
@@ -39,4 +39,4 @@ Lordianto, B., Lu, D., Ho, W., & Ergan, S. (2024). Hapti-met: A construction hel
 
 Lu, D., & Ergan, S. (2023). Predicting roadway workers’ safety behaviour in short-term work zones. In: Broy, T., Li, H., Lu, Q. (eds) *2023 EG-ICE International Conference on Intelligent Computing in Engineering*. [PDF](https://www.ucl.ac.uk/bartlett/sites/bartlett/files/predicting_roadway_workers_safety_behaviour_in_short-term_work_zones.pdf)
 
-Qin, J., Lu, D., & Ergan, S. (2023). Towards increased situational awareness at unstructured work zones: Analysis of worker behavioral data captured in VR-based micro traffic simulations. In: Skatulla, S., Beushausen, H. (eds) *International Conference on Computing in Civil and Building Engineering* (pp. 63-77). Cham: Springer Nature Switzerland. [doi:10.1007/978-3-031-32515-1_6)](https://doi.org/10.1007/978-3-031-32515-1_6)
+Qin, J., Lu, D., & Ergan, S. (2023). Towards increased situational awareness at unstructured work zones: Analysis of worker behavioral data captured in VR-based micro traffic simulations. In: Skatulla, S., Beushausen, H. (eds) *International Conference on Computing in Civil and Building Engineering* (pp. 63-77). Cham: Springer Nature Switzerland. [doi:10.1007/978-3-031-32515-1_6](https://doi.org/10.1007/978-3-031-32515-1_6)
