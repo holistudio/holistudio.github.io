@@ -4,12 +4,14 @@ title: about me
 permalink: /about/
 ---
 
-Hi! I'm a design technologist and researcher currently investigating the use of virtual reality, wearables, and machine learning in architectural design and construction processes as a PhD researcher at the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) at New York University. 
+Hi! This is the part where I label myself as a "technologist" or "engineer" or something. But to be honest, I really just see myself as a storyteller. And at the moment, coding and data are my preferred mediums for doing so. I am also just fascinated by AI in terms of its [creative potential](https://holistudio.github.io/2023/06/14/project_spaceship/) and the challenges it presents to the way we make things.
 
-My main interests are in generative AI and human computer interaction, particularly in [applications for designers](https://holistudio.github.io/2023/06/14/project_spaceship/) of all kinds (architects, engineers, kids with Legos). My past experience in architectural engineering and current PhD dissertation on [VR and AI to develop wearables for traffic construction workers](https://holistudio.github.io/2023/05/05/worker_safety/) is fueling my interests in those topics, albeit in a different application domain.
+Professionally, I am seeking a role in the data science and machine learning fields. Having completed my PhD at the [Building Informatics Lab](https://bilab.engineering.nyu.edu/) at NYU, I know I can just get into a flow state when coding models and figuring out how to showcase data to convey meaningful insights. And whatever role that is, I’d like to stay close to the ever-evolving developments in AI.
 
-Beyond that, I'm always up for using my coding and design skills for any form of storytelling: data visualization, graphic design, photography, music, film.
+Beyond these professional career goals, I like working on side projects that explore the more fundamental aspects of AI: how complexity can emerge from elegant frameworks, how something numerically defined can (and cannot) mirror human thought processes. The skills I’ve developed from my [PhD research using VR, wearables and machine learning](https://holistudio.github.io/2023/05/05/worker_safety/) have provided me a broad foundation from which to build off for these projects. 
+
+Beyond that, I'm always up for making anything that involves storytelling: film, graphic design, photography, comics. In one way or another, I believe that all of it comes back to inform how I tell a story, with or without data.
 
 Interested in collaborating? Contact me at daniel.bin.lu [at] gmail [dot] com.
 
-[LinkedIn](https://www.linkedin.com/in/danielbinlu/), [Google Scholar](https://scholar.google.com/citations?user=nvlietgAAAAJ&hl=en)
+[GitHub](https://github.com/holistudio/), [LinkedIn](https://www.linkedin.com/in/danielbinlu/), [Google Scholar](https://scholar.google.com/citations?user=nvlietgAAAAJ&hl=en)
