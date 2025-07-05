@@ -12,7 +12,7 @@ Beyond these career goals, I like working on side projects that explore various 
 
  - **Emergence:** How does beauty and complexity emerge from elegant frameworks?
  - **AI and Human Creativty:** How can AI mirror the creativity of designers?
- - **Virtual Playgrounds:** How can virtual worlds help us imagine and understand interactions between systems?
+ - **Virtual Playgrounds:** How can virtual worlds help us imagine and understand possible futures?
  - **Wushu's Past and Future:** What can Chinese martial arts teach us about evolving cultural practices?
  
  The skills I’ve developed from my [PhD research using VR, wearables and machine learning](https://holistudio.github.io/2023/05/05/worker_safety/) have provided me a broad foundation from which to build off for these projects. 
