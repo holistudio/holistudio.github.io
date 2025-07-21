@@ -11,7 +11,7 @@ Professionally, I am seeking a role in the data science and machine learning fie
 Beyond these career goals, I like working on side projects that explore various topics: 
 
  - **Emergence:** How does beauty and complexity emerge from elegant frameworks?
- - **AI and Human Creativty:** How can AI mirror the creativity of designers?
+ - **AI and Human Creativity:** How can AI mirror the creativity of designers? And how can it be a mirror that prompts designers to reflect on their own creativity?
  - **Virtual Playgrounds:** How can virtual worlds help us imagine and understand possible futures?
  - **Wushu's Past and Future:** What can Chinese martial arts teach us about evolving cultural practices?
  
