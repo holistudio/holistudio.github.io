@@ -1,0 +1,141 @@
+---
+layout: blog_post
+title:  "Recurse Center Halftime Reflection"
+date:   2025-11-02
+---
+
+
+*I'm halfway through my batch the Recurse Center (RC) and thought I'd at least reflect on what it's actually been like. Having graduated from NYU this past May and remained in the city, I've been fortunate enough to get accepted into RC this past September and attend in-person at the RC Hub.* 
+
+*Three quick things before getting into it:*
+- *In the style of The Timeless Way of Building by Christopher Alexander, I italicize the parts that describe the gist of what I want to convey* 
+	- Unformatted text provide additional details for curious readers, but feel free to skip :)
+- *These views are strictly my own, at this particular moment in time. They don't represent the views of RC members and faculty, and even more so, probably not even myself in the near future after the next six weeks of my batch. Still, I hope it gives others a taste of the RC experience.*
+- *Unlike most things I write, I've decided to include the background section at the end of this post. It's an optional appendix-y thing to read. It covers the lead up to RC after I graduated from NYU with a PhD. The main purpose of this blog post is to reflect on the RC experience itself and less on what I did before that.*
+
+## What I expected RC to be like
+
+*RC labels itself as a "[writer's retreat](https://www.recurse.com/faq) but for programmers," yet I am unfamiliar with the event model of a retreat. Before RC, I thought it would be a sort of "architecture student studio" but for programmers to explore their own coding projects and exchange their ideas formally or informally within a shared workspace.*
+
+In architecture schools, students generally share a large studio workspace. Even if they are in the same design class, eventually, everyone ends up working on their own design projects exploring their own ideas. Imagine the desks slowly getting filled with wildly different drawings, cardboard, and foam models of various shapes and scales. Yet, even if each student's ideas are quite different, the nature of the shared studio space is such that eventually informal conversations between students could still end up being very informative and educational discussions. Architecture schools refer to this as a "studio culture" and point to it as a fundamental aspect of architecture education.
+
+*Since my college days, I have been to various makerspaces at NYC in search of this kind of studio culture vibe but for broader "designer/maker/tech" folks who want a space to work on their projects. I had also went through a one-month creative tech + arts "unschool" program called ITP camp. To me it was the closest thing to the studio culture, though way less formalized and and more free-form. RC also referenced its [influence by the "unschool" movement](https://www.recurse.com/about), so I initially felt confident understanding it that way.*
+
+People at ITP come from various sides of the art-tech spectrum and give workshops to teach and share what they know. All the while, people work on whatever projects interest them and showcase them at the end of the month. 
+
+*So overall, going into RC, I figured my batch experience was going to be some cross between ITP camp and architecture student studio but focused very much on computer programming.*
+
+*Little did I know...*
+
+## What RC ended up being like
+
+*...I was kinda right! (haha, no real plot twists here)*
+
+*I'd say that in a broad-strokes high-level sense, RC has been like ITP camp but with greater emphasis on programming instead of creative tech and arts. But there are so many "smaller" details that end up adding up to a significant difference between what I expected and ended up experiencing. I'm honestly still figuring out what those differences are, but I'll say for now that RC seems to have reduced a lot of friction points that normally occur in other learning environments.*
+
+This is **not** to say that RC is better than ITP camp or other programs out there, because that ultimately depends on your goals and priorities w.r.t your career and what do you want to learn. This is also **not** to say that there are no "creative tech people" at RC, since creative coding is a big part of RC.
+
+*Overall, I am grateful to be in such a welcoming place where I can share my unfettered excitement about programming topics, while I also figure out how to hone that excitement towards helping others learn toward their own interests and ideas. I ultimately see RC as a great place to figure out:*
+- *What do I actually want to learn?*
+- *How do I best help others learn what they want to learn?*
+
+*Having been in various roles in academic research, general industry, makerspaces, and unschool-like programs, I have found RC to be very unique in its ability to really encourage me to focus on those two questions towards learning programming.*
+
+*Let's start with something similar between RC and ITP camp: **learning is very much self-directed.** No one explicitly tells you what to work on here. That's ultimately up to you.*
+
+***Weekly meetups and workshops** are the most structured ways of learning at RC. But again it's up to you whether you want to keep going to them or how much work you want to put into them. There's no course add/drop deadlines, no exams or quizzes, or even homework.*
+
+Sure, certain groups will involve reading books or doing coding exercises before then but you are always welcome to join and participate however you can, even if you don't always do them (and no one holds it against you for "dropping out").
+
+*One thing that's really helped so far are the **"volitional muscles" workshops** organized by RC faculty. Here you mainly self-reflect on key questions like "what do you wish you could do w/o constraints" and "why do you want to do XYZ" and then discuss with others in the workshop...and that's all! No one there tells you what the immutable rules to life are...because you have to decide for yourself what you value in your projects and how to focus more on that.*
+
+I spent the first week attending pretty much every meetup/workshop event then slowly narrowed it down to a few that were of particular interest to me. Some have been structured around book chapters or coding challenges that people try to complete beforehand, while others are more free-form in sharing ideas or working on the day of. Regardless, it's usually the case that at some point someone will share something that prompts me to take another look at what I think I know already:
+- In the Building LLMs from Scratch book group, someone simply asked why a formula had 1/sqrt(d) instead of just 1/d...and that led me to dig deeper into machine learning theory and how to normalize values such that neural networks are unaffected by the number of embedding dimensions.
+- In Machine Learning/Reinforcement Learning for Games group, some folks have demonstrated that heuristic models instead of deep neural nets can still do surprisingly well for certain tasks. This is leading me to continue thinking about when more [sophisticated methods are actually superior](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) and what games or benchmarking metrics are most appropriate at identifying a method's performance.
+
+***And then there's Zulip**, the online chatroom app for Recursers (in-batch and alumni) to discuss whatever we find interesting. Yes, "it's just like Slack/Discord"...except in the context of RC **it feels totally different.** One big difference is the **"checkins" channel**. Each person gets their own "thread" and can say as much or as little as they want about what they're working on. This ends up feeling like everyone has their own micro-blog and conversations naturally form within each thread when a person's project touches on other people's interests a lot. The net-effect is that you feel like a part of a deeply motivated community of learners.
+
+I personally try to write out some TODOs at the start of each day and get motivated even when people just respond with emojis. Just clicking through other people's check-ins is enough to keep me pumped and motivated to go back to work on my own thing (or, better yet, distracted into another topic that's been on my mind anyway)
+
+The sheer amount of information exchanged in the other channels and even direct messages has sometimes left me in awe...which re-invigorates me to keep learning and coding with the same amount of passion.
+
+***Weekly presentations** are on a volunteer sign up basis and each person gets only 5 minutes. Coming from 10-20min academic conference presentation world, this was initially very challenging for me as a presenter. As an audience member, however, it's a sheer joy to watch, get a little confused, see something exciting, or all of the above. I don't fully understand every technical thing everyone is presenting, but there's always something absolutely fascinating in there!*
+
+*Folks at RC reading this will likely notice that I have not mentioned that much about pair programming, which I do think is a vital part of the RC experience. I have yet to "naturally" pair program a lot on my projects yet but I want to soon. Most recently, I did "pair" with someone over a simpler task: finding the right Python library for something.* 
+
+The two of us only spent about 10 minutes, but for me it was quite valuable because I imagine I would have otherwise been caught in an endless loop of perfectionism and confusion picking out what library to use. Instead, talking through my thoughts with someone else was super helpful in converging on something that seemed good enough and get started on actually coding (note: we also had the shared goal of using that Python library for the ML/RL Games workshop).
+
+*I did however try to reach out to as many people in batch my first week, even if I felt there was little chance we would actually work on something together. That meant both being open to various programming topics but also not feeling too bummed when certain people expressed moving onto something else.*
+
+*I've also had one-on-one meetings with RC "Faculty." I put quotes on that word because I come from academia and find that my conversations with them are very different in nature from meetings with university professors.* 
+
+Here, the difference between RC and other unschools becomes especially clear because RC does have a dedicated career services team to help you potentially find a job. At the same time, it doesn't insert or interfere with everything else at RC so that you can stay relatively focused on learning programming. It also helps, in my opinion, to not see RC Faculty as purely a career services team like those found in universities. 
+
+*Rather, I am starting to appreciate how **RC Faculty are there to make sure you can get the most out of the batch experience**, whether that means learning to code or finding a job.* 
+
+One of them has kindly told me that they "are not my PhD advisor," which wonderfully brought to my attention how I may had been acting in the preceding conversation listing my "progress items" so far. To be clear RC does not put ironic quotes around Faculty, with the best of intentions.
+
+*This last point actually brings me to emphasize something important that I wish to continue processing and understand better. **RC may in fact be so different from other learning environments** than what I'm used to such that:*
+- *I will need to be more attentive to **how I contribute to RC**, especially if I am not as generous as I could be or taking things too seriously or personally.*
+- *And I should still be kind to myself about this process, that it's OK if I struggle with the above, because **this environment is still very new to me**.*
+
+*A related thing is this apparent yet wonderful paradox I've noticed between people sharing something they are deeply and personally interested in while also not taking things too personally when listening to feedback and comments from others. Thanks in part to the [social rules and self-directives](https://www.recurse.com/manual) at RC, I think there's a **shared trust** among Recursers that anything we say are some attempts at thinking out loud while still being generous towards each others' passion for learning. We might still end up breaking the social rules, but we ultimately feel like **we are all in this together.***
+
+*The social learning experience of RC is something I never could have imagined. I have to say that I've been frequently caught off guard by how often I felt touched, inspired, and really seen at RC.*
+
+Even when I just want to take a "quick break" from a solo coding project, I sometimes find myself walking around the RC Hub space and getting pulled into something else. One time I passed by a conference room where folks were trying to solve a reinforcement learning problem in the Sutton-Barto textbook and I got ushered in. Soon after, we ended up on a tangential conversation about artificial agents and how they might demonstrate language as an emergent phenomena in a simulation that only required their survival. 
+
+### Fun Things I've Learned
+
+Here's just another lens to view my experience so far - all the random things I learned both programming-related and not from other Recursers:
+
+- [Paradoxes in programming](https://fkettelhoit.com/notes/2025-10-28.html) are definitely a thing.
+- In this age of LLMs, don't forget about simpler natural language machine learning tools like [Natural Language Tool Kit (NLTK)](https://www.nltk.org/#).
+- You can do a lot of Photoshop-like things using [CSS and SVG masking](https://css-tricks.com/clipping-masking-css/).
+- I should probably structure my machine learning Github repos better, especially in lieu of the [Lightning-Hydra Template](https://github.com/ashleve/lightning-hydra-template).
+- Functional programming languages like [Elixir](https://github.com/elixir-nx) can also be used to play around with linear and non-linear functions.
+- Cycle detection for recognizing when program outputs are repeating can be done via the cute-sounding [tortoise and hare algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare).
+- Memory in human brain has been found to rely on [distributed representation](https://www.sciencedirect.com/topics/social-sciences/distributed-representation), as somewhat illustrated in the movie Eternal Sunshine of the Spotless Mind.
+- [Reinforcement theory](https://en.wikipedia.org/wiki/Reinforcement_theory) is a perspective on understanding human motivation and something I hope to tie to reinforcement learning.
+- [Tu Youyou](https://en.wikipedia.org/wiki/Tu_Youyou) won the Nobel Prize in Medicine for her work in applying traditional Chinese medicine to effectively treat malaria.
+
+## Things to keep in mind moving forward
+
+*So what's next? To be honest, I am still working out the things I want to work on in my next six weeks. For now, I'd like to at least distill some vague-yet-important principles on how to approach the rest of my batch:*
+
+*Be kind to yourself about how you interact with others so that you can learn more generously with others.*
+
+*Try to pair program more. Maybe that doesn't mean "finding a whole new project" that others are interested in, but noticing a particular task within a project that would be interesting for anyone to even just look at with fresh eyes.*
+
+*As energized as I get from being in the zone that is RC, I should try to also tend to other parts of my life (personal health, relationships, etc.). As one of my favorite [game developers](https://www.youtube.com/watch?v=3S2aEQIUAYw) has said, those "other parts" should really be at the core of my identity as a programmer.*
+
+*No one here gives you definitive answers. Instead, appreciate how:*
+- *people will offer suggestions*
+- *people will raise more questions*
+- *you get to decide on those answers yourself*
+
+*When in doubt, take time to collect your thoughts and recover to a place of peace or stillness...then just code something!*
+
+
+
+## Background
+
+After graduating from NYU with a PhD, I thought at first I could find a job on my own while doing self-guided online courses and projects that would: 1) showcase some data science and analyst skills that I feel are missing from my current resume, and 2) involve some ideas of interest to me that I didn't have time to really explore during my PhD.
+
+I may go into details about that experience another time, but suffice to say that the first few months after graduation were not pleasant. It was quite a grind just to work consistently by myself, whether that meant working on SQL Leetcode, taking online courses that got boring after a while, or feeling stuck inside an initially interesting yet job-skill focused [project](https://github.com/holistudio/spotify_dash) that quickly turned into a self-created hell.
+
+Around this time, a colleague of mine from NYU had shared RC's blog post on how AI has affected Recursers' experience in coding and, in particular, [learning to code](https://www.recurse.com/blog/191-developing-our-position-on-ai). This was not my first time hearing about RC. I had applied to RC before my PhD and didn't get accepted. My disappointment from that experience since then had left me thinking it would've been difficult to apply again and get in.
+
+However, reading that RC blog post led to me poking around RC's User Manual and other pages. To my surprise, the various themes and ideas, especially the [self directives](https://www.recurse.com/manual#sub-sec-self-directives), started to really resonate with me, unlike the times I read them before my PhD when I applied the first time. Reading about ideas around [volitional muscles](https://www.recurse.com/self-directives#volitional-muscles) for approaching coding projects out of genuine interest rather than fear around getting a job even prompted me to reflect on my last couple months struggling to build projects to counteract perceived skill gaps in my resume (notice my prioritization in the first paragraph of this section).
+
+More broadly, it made me recognize the valuable moments of my PhD where I had to exercise those volitional muscles to decide which parts of a project are most important, and it prompted me to re-evaluate what I expect out of RC in relation to the job search (i.e., nothing can really make up for lack of job experience until you get a job, so what's the point of coding personal projects?)
+
+While I was initially interested in RC as just a place to work on my own projects, this "second reading" prompted two thoughts:
+- Apply! I figured at the very least I could get a conversational interview, which meant at least a chance to talk through some of the self-directives when it came time for questions from me.
+- I also figured that three things had changed since I first applied to RC:
+	- I had a stronger direct passion for programming, ranging from machine learning to creative coding.
+	- I had gained a lot of coding skills from my PhD.
+	- I felt like I had a very different mindset about project-based learning.
+- Even if I don't get in, I've learned to approach my next few months of job search and coding projects with a newfound sense of joy, patience, and motivation.
+
+Two interviews with RC later and I was fortunately accepted. 
