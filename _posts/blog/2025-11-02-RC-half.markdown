@@ -32,7 +32,7 @@ People at ITP come from various sides of the art-tech spectrum and give workshop
 
 *...I was kinda right! (haha, no real plot twists here)*
 
-*I'd say that in a broad-strokes high-level sense, RC has been like ITP camp but with greater emphasis on programming instead of creative tech and arts. But there are so many "smaller" details that end up adding up to a significant difference between what I expected and ended up experiencing. I'm honestly still figuring out what those differences are, but I'll say for now that RC seems to have reduced a lot of friction points that normally occur in other learning environments.*
+*I'd say that in a broad-strokes high-level sense, RC has been like ITP camp but with greater emphasis on programming instead of creative tech and arts. But there are so many "smaller" details that add up to a significant difference between what I expected and eventually experienced. I'm honestly still figuring out what those differences are, but I'll say for now that RC seems to have reduced a lot of friction points that normally occur in other learning environments.*
 
 This is **not** to say that RC is better than ITP camp or other programs out there, because that ultimately depends on your goals and priorities w.r.t your career and what do you want to learn. This is also **not** to say that there are no "creative tech people" at RC, since creative coding is a big part of RC.
 
