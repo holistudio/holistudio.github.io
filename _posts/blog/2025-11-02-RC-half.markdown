@@ -93,6 +93,7 @@ Here's just another lens to view my experience so far - all the random things I 
 
 - [Paradoxes in programming](https://fkettelhoit.com/notes/2025-10-28.html) are definitely a thing.
 - In this age of LLMs, don't forget about simpler natural language machine learning tools like [Natural Language Tool Kit (NLTK)](https://www.nltk.org/#).
+- RAG agents can also work with [graphs](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/) now.
 - You can do a lot of Photoshop-like things using [CSS and SVG masking](https://css-tricks.com/clipping-masking-css/).
 - I should probably structure my machine learning Github repos better, especially in lieu of the [Lightning-Hydra Template](https://github.com/ashleve/lightning-hydra-template).
 - Functional programming languages like [Elixir](https://github.com/elixir-nx) can also be used to play around with linear and non-linear functions.
@@ -100,6 +101,8 @@ Here's just another lens to view my experience so far - all the random things I 
 - Memory in human brain has been found to rely on [distributed representation](https://www.sciencedirect.com/topics/social-sciences/distributed-representation), as somewhat illustrated in the movie Eternal Sunshine of the Spotless Mind.
 - [Reinforcement theory](https://en.wikipedia.org/wiki/Reinforcement_theory) is a perspective on understanding human motivation and something I hope to tie to reinforcement learning.
 - [Tu Youyou](https://en.wikipedia.org/wiki/Tu_Youyou) won the Nobel Prize in Medicine for her work in applying traditional Chinese medicine to effectively treat malaria.
+
+I have no idea how a lot of this can be applied to my future career or personal projects in programming, but I feel such joy just knowing about these things as seeds for future explorations.
 
 ## Things to keep in mind moving forward
 
