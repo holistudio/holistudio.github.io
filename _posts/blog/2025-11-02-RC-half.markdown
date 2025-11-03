@@ -7,6 +7,8 @@ date:   2025-11-02
 
 *I'm halfway through my 12-week batch [The Recurse Center](https://www.recurse.com/) (RC) and thought I'd at least reflect on what it's actually been like. Having graduated from NYU this past May and remained in the city, I've been fortunate enough to get accepted into RC this past September and attend in-person at the RC Hub.* 
 
+*tl;dr: My RC batch experience has felt like a multi-swimlane "choose your own adventure" hackathon of sorts, where the projects, people you work with, and the durations are entirely up to you. Because of the self-directed learning environment and community of nerdy and generous people at RC, this becomes a very energizing place for me to learn all sorts of programming.*
+
 *Three quick things before getting into it:*
 - *In the style of The Timeless Way of Building by Christopher Alexander, I italicize the parts that describe the gist of what I want to convey* 
 	- Unformatted text provide additional details for curious readers, but feel free to skip :)
@@ -86,6 +88,8 @@ One of them has kindly told me that they "are not my PhD advisor," which wonderf
 *The social learning experience of RC is something I never could have imagined. I have to say that I've been frequently caught off guard by how often I felt touched, inspired, and **really seen** at RC.*
 
 Even when I just want to take a "quick break" from a solo coding project, I sometimes find myself walking around the RC Hub space and getting pulled into something else. One time I passed by a conference room where folks were trying to solve a reinforcement learning problem in the Sutton-Barto textbook and I got ushered in. Soon after, we ended up on a tangential conversation about artificial agents and how they might demonstrate language as an emergent phenomena in a simulation that only required their survival. 
+
+*In short, RC has felt more like a multi-swimlane "choose your own adventure" hackathon of sorts, where the projects, people you work with, and the hackathon durations are entirely up to you and others interested in a particular topic. If that all still sounds vague, it's because that is the nature of RC's relatively unstructured learning environment, where the real value comes from the interactions you have with other Recursers.*
 
 ### Fun Things I've Learned
 
