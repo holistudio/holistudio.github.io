@@ -36,7 +36,7 @@ People at ITP come from various sides of the art-tech spectrum and give workshop
 
 This is **not** to say that RC is better than ITP camp or other programs out there, because that ultimately depends on your goals and priorities w.r.t your career and what do you want to learn. This is also **not** to say that there are no "creative tech people" at RC, since creative coding is a big part of RC.
 
-*Overall, I am grateful to be in such a welcoming place where I can share my unfettered excitement about programming topics, while I also figure out how to hone that excitement towards helping others learn toward their own interests and ideas. I ultimately see RC as a great place to figure out:*
+*Overall, I am grateful to be in such a welcoming place where I can share my unfettered excitement about programming topics, while I also develop my ability to direct that excitement effectively towards helping others learn toward their own interests and ideas. I ultimately see RC as a great place to figure out:*
 - *What do I actually want to learn?*
 - *How do I best help others learn what they want to learn?*
 
