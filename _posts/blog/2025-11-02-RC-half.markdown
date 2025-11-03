@@ -11,7 +11,8 @@ date:   2025-11-02
 - *In the style of The Timeless Way of Building by Christopher Alexander, I italicize the parts that describe the gist of what I want to convey* 
 	- Unformatted text provide additional details for curious readers, but feel free to skip :)
 - *These views are strictly my own, at this particular moment in time. They don't represent the views of RC members and faculty, and even more so, probably not even myself in the near future after the next six weeks of my batch. Still, I hope it gives others a taste of the RC experience.*
-- *Unlike most things I write, I've decided to include the background section at the end of this post. It's an optional appendix-y thing to read. It covers the lead up to RC after I graduated from NYU with a PhD. The main purpose of this blog post is to reflect on the RC experience itself and less on what I did before that.*
+- *Unlike most things I write, I've decided to include the background section at the end of this post.* 
+    - It's an optional appendix-y thing to read. It covers the lead up to RC after I graduated from NYU with a PhD. The main purpose of this blog post is to reflect on the RC experience itself and less on what I did before that.
 
 ## What I expected RC to be like
 
