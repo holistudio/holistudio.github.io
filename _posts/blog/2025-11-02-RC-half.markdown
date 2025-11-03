@@ -5,7 +5,7 @@ date:   2025-11-02
 ---
 
 
-*I'm halfway through my batch the Recurse Center (RC) and thought I'd at least reflect on what it's actually been like. Having graduated from NYU this past May and remained in the city, I've been fortunate enough to get accepted into RC this past September and attend in-person at the RC Hub.* 
+*I'm halfway through my 12-week batch [The Recurse Center](https://www.recurse.com/) (RC) and thought I'd at least reflect on what it's actually been like. Having graduated from NYU this past May and remained in the city, I've been fortunate enough to get accepted into RC this past September and attend in-person at the RC Hub.* 
 
 *Three quick things before getting into it:*
 - *In the style of The Timeless Way of Building by Christopher Alexander, I italicize the parts that describe the gist of what I want to convey* 
