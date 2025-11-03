@@ -89,7 +89,7 @@ Even when I just want to take a "quick break" from a solo coding project, I some
 
 ### Fun Things I've Learned
 
-Here's just another lens to view my experience so far - all the random things I learned both programming-related and not from other Recursers:
+Here's just another lens to view my experience so far - all the random things I learned from other Recursers, both programming-related and not programming-related at all:
 
 - [Paradoxes in programming](https://fkettelhoit.com/notes/2025-10-28.html) are definitely a thing.
 - In this age of LLMs, don't forget about simpler natural language machine learning tools like [Natural Language Tool Kit (NLTK)](https://www.nltk.org/#).
