@@ -52,9 +52,8 @@ Sure, certain groups will involve reading books or doing coding exercises before
 
 I spent the first week attending pretty much every meetup/workshop event then slowly narrowed it down to a few that were of particular interest to me. Some have been structured around book chapters or coding challenges that people try to complete beforehand, while others are more free-form in sharing ideas or working on the day of. Regardless, it's usually the case that at some point someone will share something that prompts me to take another look at what I think I know already:
 
- - In the Building LLMs from Scratch book group, someone simply asked why a formula had 1/sqrt(d) instead of just 1/d...and that led me to dig deeper into machine learning theory and how to normalize values such that neural networks are unaffected by the number of embedding dimensions.
-
- - In Machine Learning/Reinforcement Learning for Games group, some folks have demonstrated that heuristic models instead of deep neural nets can still do surprisingly well for certain tasks. This is leading me to continue thinking about when more [sophisticated methods are actually superior](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) and what games or benchmarking metrics are most appropriate at identifying a method's performance.
+- In the [Building LLMs from Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) book group, someone simply asked why a formula had 1/sqrt(d) instead of just 1/d...and that led me to dig deeper into machine learning theory and how to normalize values such that neural networks are unaffected by the number of embedding dimensions.
+- In the Machine Learning/Reinforcement Learning for Games group, some folks have demonstrated that heuristic models instead of deep neural nets can still do surprisingly well for certain tasks. This is leading me to continue thinking about when more [sophisticated methods are actually superior](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) and what games or benchmarking metrics are most appropriate at identifying a method's performance.
 
 *And then there's **Zulip**, the online chatroom app for Recursers (in-batch and alumni) to discuss whatever we find interesting. Yes, "it's just like Slack/Discord"...except in the context of RC **it feels totally different.** One big difference is the **"checkins" channel**. Each person gets their own "thread" and can say as much or as little as they want about what they're working on. This ends up feeling like everyone has their own micro-blog and conversations naturally form within each thread when a person's project touches on other people's interests a lot. The net-effect is that you feel like a part of a deeply motivated community of learners.*
 
@@ -93,21 +92,13 @@ Even when I just want to take a "quick break" from a solo coding project, I some
 Here's just another lens to view my experience so far - all the random things I learned both programming-related and not from other Recursers:
 
 - [Paradoxes in programming](https://fkettelhoit.com/notes/2025-10-28.html) are definitely a thing.
-
 - In this age of LLMs, don't forget about simpler natural language machine learning tools like [Natural Language Tool Kit (NLTK)](https://www.nltk.org/#).
-
 - You can do a lot of Photoshop-like things using [CSS and SVG masking](https://css-tricks.com/clipping-masking-css/).
-
 - I should probably structure my machine learning Github repos better, especially in lieu of the [Lightning-Hydra Template](https://github.com/ashleve/lightning-hydra-template).
-
 - Functional programming languages like [Elixir](https://github.com/elixir-nx) can also be used to play around with linear and non-linear functions.
-
 - Cycle detection for recognizing when program outputs are repeating can be done via the cute-sounding [tortoise and hare algorithm](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare).
-
 - Memory in human brain has been found to rely on [distributed representation](https://www.sciencedirect.com/topics/social-sciences/distributed-representation), as somewhat illustrated in the movie Eternal Sunshine of the Spotless Mind.
-
 - [Reinforcement theory](https://en.wikipedia.org/wiki/Reinforcement_theory) is a perspective on understanding human motivation and something I hope to tie to reinforcement learning.
-
 - [Tu Youyou](https://en.wikipedia.org/wiki/Tu_Youyou) won the Nobel Prize in Medicine for her work in applying traditional Chinese medicine to effectively treat malaria.
 
 ## Things to keep in mind moving forward
