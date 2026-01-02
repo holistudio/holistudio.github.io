@@ -31,7 +31,7 @@ Unity, HTC Vive API, Virtual Reality Systems, C#, Python, PyTorch, Reinforcement
 
 ### Publications
 
-Lu, D. B., & Ergan, S. (2025). Behavioral modelling of roadway construction workers: Improving deep learning-based trajectory prediction with contextual information in traffic work zones. *Advanced Engineering Informatics (In Progress)*
+Lu, D. B., & Ergan, S. (2026). Behavioral modelling of roadway construction workers: Improving deep learning-based trajectory prediction with contextual information in traffic work zones. *Advanced Engineering Informatics*, 71, 104277. [10.1016/j.aei.2025.104277](https://doi.org/10.1016/j.aei.2025.104277)
 
 Lu, D. B., & Ergan, S. (2025). Principal attributes of wearable warning alarms to promote roadway worker safety. *Advanced Engineering Informatics*, 67, 103481. [doi:10.1016/j.aei.2025.103481](https://doi.org/10.1016/j.aei.2025.103481)
 
